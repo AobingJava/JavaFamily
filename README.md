@@ -109,7 +109,7 @@
   - 加分项
   - 扬长避短
  # <a name="微信">联系我</a>
-添加我的微信备注“Github”,回复关键字 “加群” 即可入群。
+添加我的微信备注“Github”,回复关键字 “人才” 即可加入人才交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vgffkxopj30by0byaav.jpg)
   # <a name="公众号">公众号</a>
