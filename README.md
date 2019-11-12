@@ -1,16 +1,23 @@
 作为一个在互联网公司面一次拿一次Offer的面霸（**请允许我使用一下夸张的修辞手法**），打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚。
 
-在一个寂寞难耐的夜晚，我痛定思痛，决定开始写**《吊打面试官》**系列，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
+在一个寂寞难耐的夜晚，我痛定思痛，决定开始写《**吊打面试官**》系列，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以Git提交自己的想法或者去【[公众号](#wx "二维码")】获取我联系方式提意见。
+<p align="center">
+<a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+	<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g8vfp4a1caj305k05kq3c.jpg" width=""/>
+</a>
+</p>
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vfp4a1caj305k05kq3c.jpg)
-
-​							[![阅读](https://camo.githubusercontent.com/83ab109d44f7f221c2af6d533ca61cdbf490ae53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe99885e8afbb2d726561642d627269676874677265656e2e737667)](https://github.com/AobingJava/JavaFamily#yd) [![微信群](https://camo.githubusercontent.com/34c07976b5f830f4309e3ee24550e1deda518001/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742de5beaee4bfa1e7bea42d626c75652e737667)](https://github.com/AobingJava/JavaFamily#wx) [![公众号](https://camo.githubusercontent.com/094ebad202e9833b91eda19ad61f7dff2c90224e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545352538352541432545342542432539372545352538462542372d4a61766147756964652d6c69676874677265792e737667)](https://github.com/AobingJava/JavaFamily#wx) [![公众号](https://camo.githubusercontent.com/5c1d43305e392e35bc8c626d6c7c6b025e5b7c0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5044462d4a617661e99da2e8af95e7aa81e587bb2d696d706f7274616e742e737667)](https://github.com/AobingJava/JavaFamily#wx) [![投稿](https://camo.githubusercontent.com/96c7460022816d1685aa102a75ca2e65b47a1085/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737570706f72742de68a95e7a8bf2d637269746963616c2e737667)](https://github.com/AobingJava/JavaFamily#wx) [![投稿](https://camo.githubusercontent.com/27631efffe7c05e03623c67bcc18c4e99aebeb00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612de99da2e8af95e68c87e58d972d696d706f7274616e74)](https://github.com/AobingJava/JavaFamily#wx)
-
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vdvnnqz4j30u029349w.jpg)
-
-## <a name="yd">目录</a>
+<p align="center">
+  <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
+  <a href="#微信"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
+  <a href="#目录"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
+</p>
+<a name="目录">目录</a>
 
 - Java基础核心串讲
   - 计算机操作系统与Linux
@@ -99,7 +106,9 @@
   - 语言组织
   - 加分项
   - 扬长避短
-
-  # <a name="wx">公众号</a>
-
+ # <a name="微信">联系我</a>
+添加我的微信备注“Github”,回复关键字 “加群” 即可入群。
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vgffkxopj30by0byaav.jpg)
+  # <a name="公众号">公众号</a>
+如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号(比博客更新早一到两天)。
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8p9gftfchj30p00dwjuj.jpg)
