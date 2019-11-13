@@ -109,9 +109,66 @@
   - 加分项
   - 扬长避短
  # <a name="微信">联系我</a>
-添加我的微信备注“Github”,回复关键字 “人才” 即可加入人才交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。
+添加我的微信备注"git", 即可加入人才交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。
+我有空也会跟大家一起交流每期写作的思路,以及倾听大家意见.
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8wk8deq0oj30dw0i0gml.jpg)
+#赞赏码
+关注我的人比较小众,没啥创作收入,觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏),赏了一定要加我微信跟我说!!!
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8wk8ypv5oj30dw0dwgly.jpg)
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vgffkxopj30by0byaav.jpg)
+#鸣谢列表
+以下排名不分先后!
+
+<a href="https://github.com/fanofxiaofeng">
+    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px"></a>
+<a href="https://github.com/fanchenggang">  
+    <img src="https://avatars2.githubusercontent.com/u/8225921?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/Rustin-Liu">  
+    <img src="https://avatars2.githubusercontent.com/u/29879298?s=400&v=4" width="45px">
+</a>
+
+<a href="https://github.com/ipofss">
+    <img src="https://avatars1.githubusercontent.com/u/5917359?s=460&v=4" width="45px"></a>
+<a href="https://github.com/Gene1994">
+    <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/spikesp">
+    <img src="https://avatars0.githubusercontent.com/u/12581996?s=460&v=4" width="45px"></a>
+<a href="https://github.com/illusorycloud">
+    <img src="https://avatars3.githubusercontent.com/u/31980412?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/LiWenGu">
+    <img src="https://avatars0.githubusercontent.com/u/15909210?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/kinglaw1204">
+    <img src="https://avatars1.githubusercontent.com/u/20039931?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/jun1st">
+    <img src="https://avatars2.githubusercontent.com/u/14312378?s=460&v=4" width="45px">
+</a>"
+<a href="https://github.com/fantasygg">  
+    <img src="https://avatars3.githubusercontent.com/u/13445354?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/debugjoker">  
+    <img src="https://avatars3.githubusercontent.com/u/26218005?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/zhyank">  
+    <img src="https://avatars0.githubusercontent.com/u/17696240?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/Goose9527">  
+    <img src="https://avatars2.githubusercontent.com/u/43314997?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/yuechuanx">  
+    <img src="https://avatars3.githubusercontent.com/u/19339293?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/cnLGMing">  
+    <img src="https://avatars2.githubusercontent.com/u/15910705?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/fanchenggang">  
+    <img src="https://avatars0.githubusercontent.com/u/20358122?s=460&v=4" width="45px">
+</a>
+
   # <a name="公众号">公众号</a>
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号(比博客更新早一到两天)。
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8p9gftfchj30p00dwjuj.jpg)
