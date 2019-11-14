@@ -13,9 +13,9 @@
   <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信"><img src="https://img.shields.io/badge/chat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaFamily-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
-  <a href="#微信"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-  <a href="#目录"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
+  <a href="https://juejin.im/user/59b416065188257e671b670a"><img src="https://img.shields.io/badge/博客-掘金-important.svg" alt="公众号"></a>
+  <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/博客-CSDN-critical.svg" alt="投稿"></a>
+  <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/博客-博客园-important" alt="投稿"></a>
 </p>
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vdvnnqz4j30u029349w.jpg)
