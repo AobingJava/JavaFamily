@@ -113,17 +113,20 @@
 
 我有空也会跟大家一起交流每期写作的思路，以及倾听大家意见，周末有空可以问我面经 ( 公众号也记得关注下面有二维码 ).
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8wk8deq0oj30dw0i0gml.jpg)
+
+![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8b7d0770411?w=250&h=324&f=png&s=63033)
  # <a name="公众号">公众号</a>
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号(比博客更新早一到两篇)，求分享给身边的朋友。
 
-![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f851e89a6e4b?w=344&h=344&f=png&s=34277)
+
+![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8d625551f36?w=250&h=250&f=png&s=59017)
 
 # 赞赏码
 
 觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说!!!
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8wk8ypv5oj30dw0dwgly.jpg)
+
+![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901)
 
 # 鸣谢列表
 
