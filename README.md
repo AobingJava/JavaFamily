@@ -3,6 +3,8 @@
 在一个寂寞难耐的夜晚，我痛定思痛，决定开始写《**吊打面试官**》系列，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
+
+Git跟公众号同步更新**每周最少两篇**，公众号首发，比博客早一到两篇.
 <p align="center">
 <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
 	<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g8vfp4a1caj305k05kq3c.jpg" width=""/>
