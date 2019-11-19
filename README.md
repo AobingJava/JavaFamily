@@ -4,7 +4,7 @@
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
-Git跟公众号同步更新**每周最少两篇**，公众号首发，比博客早一到两篇.
+**Git**跟**公众号**同步更新**每周最少两篇**，公众号首发，比博客早一到两篇.
 <p align="center">
 <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
 	<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g8vfp4a1caj305k05kq3c.jpg" width=""/>
@@ -20,7 +20,7 @@ Git跟公众号同步更新**每周最少两篇**，公众号首发，比博客�
   <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/博客-博客园-important" alt="投稿"></a>
 </p>
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8vdvnnqz4j30u029349w.jpg)
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g93ffaeoanj30u02ejqep.jpg)
 <a name="目录">目录</a>
 
 - Java基础核心串讲
@@ -68,12 +68,13 @@ Git跟公众号同步更新**每周最少两篇**，公众号首发，比博客�
 
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
-  - Redis基础
-
-  - 缓存击穿、雪崩、穿透
-  - 集群高可用、哨兵、持久化、LRU
-  - 分布式锁、并发竞争、双写一致性
-
+  - [Redis基础](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [缓存击穿、雪崩、穿透](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [集群高可用、哨兵、持久化、LRU](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [分布式锁、并发竞争、双写一致性](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [Redis常见面试题](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [秒杀系统设计](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 - 消息队列
 
   - Kafka架构与原理
