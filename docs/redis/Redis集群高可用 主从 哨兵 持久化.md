@@ -277,21 +277,6 @@ M1所在的机器挂了，哨兵还有两个，两个人一看他不是挂了嘛
 
 不出意外的话这是Redis的倒数第二期，最后一期不知道写啥还没想好，我得好好想想，加上最近不是双十一嘛得加加班，**你看看开头的我，多可怜，那还不点个赞？买个服务器**？不确定下一期多久出，想早点看到更新的小伙伴可以去公众号**催更**，公众号提前一到两天更新。
 
-### 实用推荐
-
-对了，顺带推荐下近期很**超值**的**云服务器**，初学者或者大牛都可以买来学习，搭建项目啊，服务器的各种操作呀啥的，你总不能拿公司服务器练手吧，**rm-rf**一用所有人都会叫你大牛的，用我的链接买最低**80多一年，200三年**，说实话真香，这个钱不就是白*嘛，我直接用用老妈的号怼了个三年的。
-
-（服务器搭建装**Mysql**，**Tomcat**啥的在公众号我转载我基友**Java3y**的文章[《手把手教你使用云服务器》](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&tempkey=MTAzM19iOEQ3bC9oaHUyMSs0b1NvLVVrM0V4ZEhTME5TWVZ6aG1veUJKaFZGTGdkRW1fZjViSkVJYWVQZlY2VUhfMFVhNE1idk9GZVVTV2dwVXZiYVY1RzdiMF8yZTVMTVpyWFVnVy1zU2NKUGNzTUJFakp6VnV5Z3p6dWlxdDctNngxTTJqb1RMdDdVOGVEMEd5dG95OXN3bnpxS2Q1UHpBVDI2Q0pmYUJRfn4%3D&chksm=0cf2d7053b855e1386c6676607784f9ebdc784986b7962e9acc94737dd3aa7f623f5c234ad74&scene=0&xtrack=1&previewkey=tN%252BOLRtjEf42WJ4V%252BRz%252BzMNS9bJajjJKzz%252F0By7ITJA%253D#wechat_redirect)中有）！
-
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8p9gfjvgmj314f0u0n5d.jpg)
-
-[ 链接购买](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=9C36CDC5F956AD0477AF1A3D19D3C328647C88CF896EF535&userCode=tybhsgp5&share_source=copy_link)            **通过我的链接购买，新用户专享价，如果不是新用户的可以用家里人的账号购买**
-
-二维码购买
-
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g8p9gg764oj302s02sgli.jpg)
-
-
 
 ### END
 
