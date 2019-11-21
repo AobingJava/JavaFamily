@@ -75,6 +75,7 @@
   - [Redis常见面试题](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
   - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
   - [秒杀系统设计](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
+  - [课代表总结](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
   - [消息队列基础知识](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
   - 消息重复消费、分布式事务、高可用
