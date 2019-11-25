@@ -144,8 +144,8 @@
 <a href="https://github.com/programes">  
     <img src="https://avatars3.githubusercontent.com/u/6359325?s=400&v=4" width="45px">
 </a>
-<a href="https://github.com/Rustin-Liu">  
-    <img src="https://avatars2.githubusercontent.com/u/29879298?s=400&v=4" width="45px">
+<a href="https://github.com/bertChen812">  
+    <img src="https://avatars3.githubusercontent.com/u/37893362?s=400&v=4" width="45px">
 </a>
 
 <a href="https://github.com/ipofss">
@@ -153,7 +153,7 @@
 <a href="https://github.com/Gene1994">
     <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
 </a>
-<a href="https://github.com/spikesp">
+<a href="https://github.com/bertChen812">
     <img src="https://avatars0.githubusercontent.com/u/12581996?s=460&v=4" width="45px"></a>
 <a href="https://github.com/illusorycloud">
     <img src="https://avatars3.githubusercontent.com/u/31980412?s=460&v=4" width="45px">
