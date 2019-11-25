@@ -129,7 +129,7 @@
 
 # 赞赏码
 
-觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说 ! ! !
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
 
 
 ![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901)
@@ -147,9 +147,10 @@
 <a href="https://github.com/bertChen812">  
     <img src="https://avatars3.githubusercontent.com/u/37893362?s=400&v=4" width="45px">
 </a>
-
-<a href="https://github.com/ipofss">
-    <img src="https://avatars1.githubusercontent.com/u/5917359?s=460&v=4" width="45px"></a>
+<a href="https://github.com/cyberwave">
+    <img src="https://avatars2.githubusercontent.com/u/7488935?s=400&v=4" width="45px"></a>
+    
+    
 <a href="https://github.com/Gene1994">
     <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
 </a>
