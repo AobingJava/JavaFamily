@@ -45,7 +45,7 @@
   - 常见的JUC工具类
 
 - 常用工具集
-  - [顶级程序员的百宝箱]()
+  - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
   - JVM问题排查工具-JMC
   - IDEA开发神器
   - 线上调试神器-btrace
@@ -114,7 +114,7 @@
   - 扬长避短
   
 - 程序人生
-  - [感恩节特辑]()
+  - [感恩节特辑](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E6%84%9F%E6%81%A9%E8%8A%82.md)
  # <a name="微信">联系我</a>
 添加我的微信备注 " **git** "， 即可加入人才交流群，说实话在这个群，哪怕您不说话，光看聊天记录，都能学到东西。
 
