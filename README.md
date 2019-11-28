@@ -116,8 +116,7 @@
 - 程序人生
   - [感恩节特辑](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E6%84%9F%E6%81%A9%E8%8A%82.md)
  # <a name="微信"></a>  <a name="公众号"></a>
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g9dzdxk4v6j30m80nmdno.jpg)
-
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g9e2keyxw6j30m80nmjyj.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
