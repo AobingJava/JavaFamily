@@ -1,6 +1,6 @@
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（**请允许我使用一下夸张的修辞手法**）。
 
-在一个寂寞难耐的夜晚，我痛定思痛，决定开始写《**吊打面试官**》系列，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
+在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
@@ -28,7 +28,8 @@
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
-
+  - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
+  - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
 - 深入浅出JVM
 
   - JVM内存模型
@@ -57,14 +58,15 @@
   - 从二叉搜索树到B+树
   - 经典问题之字符串
   - 经典问题之TOPK
-
+  - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
 - 必会框架
 
   - Spring全家桶以及源码分析
-
+  - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
   - ORM框架Mybatis源码分析
+  - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
 
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
@@ -80,8 +82,7 @@
   - [消息队列基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80.md)
   - [消息重复消费、分布式事务、顺序消费](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9%E3%80%81%E9%A1%BA%E5%BA%8F%E6%B6%88%E8%B4%B9%E3%80%81%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
   - Kafka架构与原理
-  - RocketMQ
-  - 分布式事务
+  - [RocketMQ]()
 
 - 数据库
 
@@ -112,9 +113,14 @@
   - 语言组织
   - 加分项
   - 扬长避短
-  
-- 程序人生
-  - [感恩节特辑](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E6%84%9F%E6%81%A9%E8%8A%82.md)
+- 面试真题
+  - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
+  - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
+  - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
+  - [Spring常见问题总结（补充版）](https://mp.weixin.qq.com/s/wcK2qsZxKDJTLIGqEIyaNg)
+- 程序人生系列
+  - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E6%84%9F%E6%81%A9%E8%8A%82.md)
+  - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
  # <a name="微信"></a>  <a name="公众号"></a>
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g9e2keyxw6j30m80nmjyj.jpg)
 # 赞赏码
@@ -124,7 +130,6 @@
 ![](https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901)
 
 # 关于我
-[感谢有你,感恩节对大家说的话,点击阅读](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453141001&idx=1&sn=1f4f390a781b45f050a217991859dbbb&chksm=8cf2d48abb855d9c3d14a251a8f685b192af0e79db86aa1f4551212eb253b48818fdeb04efb0&token=289786679&lang=zh_CN#rd)
 
 今年23岁，来自贵州遵义，大三学分提前休满的情况，在某为某阿里系电商任职过，现在在蘑菇街算法工程部门。
 
@@ -132,7 +137,16 @@
 
 **很希望跟大家分享职场的一路，觉得我不错也记得分享给身边的朋友哟。**
 # 岗位内推
-找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里 美团 蘑菇街 平多多 字节跳动 腾讯 等都可以.
+找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里 美团 蘑菇街 拼多多 字节跳动 腾讯 等都可以.
+
+近期机会:
+
+蚂蚁金服相互宝用户已破亿！想深入了解这款用户增长最快的产品吗？快加入蚂蚁金服吧~业务前景广阔~技术挑战巨大！
+目前岗位有：JAVA后端，前端，算法，数据，测试，具体岗位描述可加微信私聊。
+# 澄清
+经常有人问我看了能不能吊打面试官，不能。
+
+所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
 # 鸣谢列表
 
 以下排名不分先后!
