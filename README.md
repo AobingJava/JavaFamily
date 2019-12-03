@@ -1,4 +1,4 @@
-[**→我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈。←**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈。←点击购买**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
 
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（**请允许我使用一下夸张的修辞手法**）。
 
