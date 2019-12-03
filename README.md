@@ -1,5 +1,8 @@
-[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈。←点击购买**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+<p align="center">
 
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg)
+</p>
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（**请允许我使用一下夸张的修辞手法**）。
 
 在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
