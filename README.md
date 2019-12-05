@@ -3,6 +3,9 @@
 <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg" width=""/>
 </a>
+<a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9lzolsxotj30b40b7acp.jpg" width=""/>
+</a>
 </p>
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（ 请允许我使用一下夸张的修辞手法 ）。
 
@@ -10,7 +13,7 @@
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
-**Git**跟**公众号**同步更新**每周最少两篇**，公众号首发，比博客早一到两篇.
+原创文章每周最少两篇，公众号首发，比博客早一到两篇.
 <p align="center">
 <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
 	<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
