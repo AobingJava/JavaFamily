@@ -3,9 +3,7 @@
 <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg" width=""/>
 </a>
-<a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9lzolsxotj30b40b7acp.jpg" width=""/>
-</a>
+
 </p>
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（ 请允许我使用一下夸张的修辞手法 ）。
 
