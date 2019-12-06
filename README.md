@@ -1,21 +1,22 @@
-[**我帮阿里云推广服务器89/年，229/3年，买来送自己，送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+[**我帮阿里云推广服务器89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
 <p align="center">
-<a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg" width=""/>
-</a>
-
+    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
+       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9jmxonfwfj302s02sgld.jpg" width=""/>
+    </a>
 </p>
-作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（ 请允许我使用一下夸张的修辞手法 ）。
+
+作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（请允许我使用一下夸张的修辞手法)。
 
 在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
 原创文章每周最少两篇，公众号首发，比博客早一到两篇.
+
 <p align="center">
-<a href="https://github.com/AobingJava/JavaFamily" target="_blank">
-	<img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
-</a>
+    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
+        <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
+    </a>
 </p>
 
 <p align="center">
@@ -28,6 +29,7 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g93ffaeoanj30u02ejqep.jpg)
+
 <a name="目录">目录</a>
 
 - Java基础核心串讲
@@ -88,7 +90,7 @@
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
   - [消息队列基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E5%9F%BA%E7%A1%80.md)
   - [消息重复消费、分布式事务、顺序消费](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9%E3%80%81%E9%A1%BA%E5%BA%8F%E6%B6%88%E8%B4%B9%E3%80%81%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
-  - Kafka架构与原理
+  - [Kafka架构与原理](https://mp.weixin.qq.com/s/-IPfWPS1WQMEgcIu0Ak2VQ)
   - [RocketMQ](https://github.com/AobingJava/JavaFamily/blob/master/docs/mq/RocketMQ.md)
 
 - 数据库
@@ -120,16 +122,22 @@
   - 语言组织
   - 加分项
   - 扬长避短
+  
 - 面试真题
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
   - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
   - [Spring常见问题总结（补充版）](https://mp.weixin.qq.com/s/wcK2qsZxKDJTLIGqEIyaNg)
+  
 - 程序人生系列
   - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E6%84%9F%E6%81%A9%E8%8A%82.md)
   - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
+  - [教你在服务器搭建个人面试项目](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
+  - [记一次害敖丙差点丢工作的线上P0事故](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
+  
  # <a name="微信"></a>  <a name="公众号"></a>
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g9e2keyxw6j30m80nmjyj.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9n60h8nk4j30m80rkjzu.jpg)
+
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
@@ -159,8 +167,8 @@
 以下排名不分先后!
 
 <a href="https://github.com/simpleTo">
-    <img src="https://avatars3.githubusercontent.com/u/24934495?s=400&v=4" width="45px"></a>
-    
+    <img src="https://avatars3.githubusercontent.com/u/24934495?s=400&v=4" width="45px">
+</a>
 <a href="https://github.com/programes">  
     <img src="https://avatars3.githubusercontent.com/u/6359325?s=400&v=4" width="45px">
 </a>
@@ -168,14 +176,14 @@
     <img src="https://avatars3.githubusercontent.com/u/37893362?s=400&v=4" width="45px">
 </a>
 <a href="https://github.com/cyberwave">
-    <img src="https://avatars2.githubusercontent.com/u/7488935?s=400&v=4" width="45px"></a>
-    
-    
+    <img src="https://avatars2.githubusercontent.com/u/7488935?s=400&v=4" width="45px">
+</a>
 <a href="https://github.com/Gene1994">
     <img src="https://avatars3.githubusercontent.com/u/24930369?s=460&v=4" width="45px">
 </a>
 <a href="https://github.com/bertChen812">
-    <img src="https://avatars0.githubusercontent.com/u/12581996?s=460&v=4" width="45px"></a>
+    <img src="https://avatars0.githubusercontent.com/u/12581996?s=460&v=4" width="45px">
+</a>
 <a href="https://github.com/illusorycloud">
     <img src="https://avatars3.githubusercontent.com/u/31980412?s=460&v=4" width="45px">
 </a>
