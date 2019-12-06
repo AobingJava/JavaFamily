@@ -20,7 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="#目录"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信"><img src="https://img.shields.io/badge/weChat-微信群-blue.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-三太子敖丙-lightgrey.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/59b416065188257e671b670a"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
