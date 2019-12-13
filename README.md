@@ -36,7 +36,7 @@
 
 <p align="center">
   <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v4rvautjj30b402ndfs.jpg"width="" style="margin: 0 auto;"/>
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v6ijyoiuj30oi01wwem.jpg"width="" style="margin: 0 auto;"/>
   </a >
 </p>
 
