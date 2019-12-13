@@ -19,11 +19,7 @@
     </a>
 </p>
 
-<p align="center">
-  <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v4rvautjj30b402ndfs.jpg"width="" style="margin: 0 auto;"/>
-  </a >
-</p>
+
 
 
 <p align="center">
@@ -36,6 +32,12 @@
   <a href="https://www.jianshu.com/u/e7c221a5d1d9"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="投稿"></a>
   <a href="https://www.zhihu.com/people/aobingJava/activities"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
+</p>
+
+<p align="center">
+  <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v4rvautjj30b402ndfs.jpg"width="" style="margin: 0 auto;"/>
+  </a >
 </p>
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g93ffaeoanj30u02ejqep.jpg)
