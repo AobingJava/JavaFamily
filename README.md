@@ -19,7 +19,6 @@
     </a>
 </p>
 
-<h3 align="center">Sponsor</h3>
 <p align="center">
   <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
 <img src="https://tva1.sinaimg.cn/large/006tNbRwly1g9v4rvautjj30b402ndfs.jpg"width="" style="margin: 0 auto;"/>
