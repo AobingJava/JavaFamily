@@ -40,7 +40,7 @@
   </a >
 </p>
 
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g93ffaeoanj30u02ejqep.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
 
 <a name="目录">目录</a>
 
@@ -49,7 +49,7 @@
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
-  - [HashMap]()
+  - [HashMap](https://github.com/AobingJava/JavaFamily/blob/master/docs/basics/HashMap.md)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
 - 深入浅出JVM
@@ -149,7 +149,7 @@
   - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
   - [教你在服务器搭建个人面试项目](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)
   - [记一次害敖丙差点丢工作的线上P0事故](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%B7%AE%E7%82%B9%E5%AE%B3%E6%95%96%E4%B8%99%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%9A%84%E7%BA%BF%E4%B8%8AP0%E4%BA%8B%E6%95%85.md)
-  - [从毕业到技术专家我做了啥](https://mp.weixin.qq.com/s/mYfVAo8-jkPFwhbqDZyQzw)
+  - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
 - 吐血整理系列
   - [顶级程序员书单集]()
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
