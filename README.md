@@ -151,7 +151,7 @@
   - [记一次害敖丙差点丢工作的线上P0事故](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%B7%AE%E7%82%B9%E5%AE%B3%E6%95%96%E4%B8%99%E4%B8%A2%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%9A%84%E7%BA%BF%E4%B8%8AP0%E4%BA%8B%E6%95%85.md)
   - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
 - 吐血整理系列
-  - [顶级程序员书单集]()
+  - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
  # <a name="微信"></a>  <a name="公众号"></a>
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ppafm401j30m80rkwn6.jpg)
