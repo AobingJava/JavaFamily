@@ -13,6 +13,7 @@
 
 原创文章每周最少两篇，公众号首发，比博客早一到两篇.
 
+近期热文，求点赞->[《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
         <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
@@ -154,7 +155,7 @@
   - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
  # <a name="微信"></a>  <a name="公众号"></a>
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9ppafm401j30m80rkwn6.jpg)
+![](https://tva1.sinaimg.cn/large/006tNbRwly1g9zq2x908zj30m80rkn3q.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
@@ -163,11 +164,15 @@
 
 # 关于我
 
+[《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
+
 今年23岁，来自贵州遵义，大三学分提前休满的情况，在某为某阿里系电商任职过，现在在蘑菇街算法工程部门。
 
 对很多场景比初学者可能熟悉一点，职场我也是个新手，很多知识点也是不是很清楚，不过有过很多面试经验，觉得把知识点用自己的风格展示给大家，希望大家能学到东西，我们一起进步。
 
 **很希望跟大家分享职场的一路，觉得我不错也记得分享给身边的朋友哟。**
+
+
 # 岗位内推
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里\美团\蘑菇街\拼多多\字节跳动\腾讯等都可以.
 
