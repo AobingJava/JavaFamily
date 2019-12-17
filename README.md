@@ -13,7 +13,7 @@
 
 原创文章每周最少两篇，公众号首发，比博客早一到两篇.
 
-近期热文，求点赞->[《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
+2019年个人经历，求点赞->[《2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
         <img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g98588lrx2j305k05kgm0.jpg" width=""/>
