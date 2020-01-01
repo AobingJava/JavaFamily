@@ -37,15 +37,13 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
-<p align="center">
-  <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
-<img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga6snhrqubg30xc02smxj.gif"width="" style="margin: 0 auto;"/>
-  </a >
-</p>
+
 <a name="目录">目录</a>
 
 - Java基础核心串讲
   - 计算机操作系统与Linux
+  - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+  - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
@@ -67,6 +65,7 @@
   - 线程同步与互斥
   - 线程池知识点
   - 常见的JUC工具类
+  - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
 - 常用工具集
@@ -75,7 +74,7 @@
   - 线上调试神器-btrace
   - Git原理与工作流
   - Linux常用分析工具
-
+ 
 - 数据结构与算法
 
   - 从二叉搜索树到B+树
@@ -90,7 +89,7 @@
   - 分布式框架基石-RPC
   - ORM框架Mybatis源码分析
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
-
+  - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
   - [Redis基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/Redis%E5%9F%BA%E7%A1%80.md)
@@ -132,13 +131,14 @@
 
 - 面试技巧
 
-  - 简历
+  - [简历怎么写?](https://mp.weixin.qq.com/s/0pNv6pMnenKn1A9PE61VnQ)
   - [能不能好好写简历？](https://mp.weixin.qq.com/s/LxVeT49GMKu72PZJ-rDHpA)
   - 语言组织
   - 加分项
   - 扬长避短
   - [自我介绍](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%96%E4%B8%99%E7%94%A820%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%8B%BF%E4%BA%86%E6%AF%94%E8%B5%9B%E5%86%A0%E5%86%9B.md)
-  
+- 研发规范
+  - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
 - 面试真题
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
@@ -147,6 +147,7 @@
   - [我是如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s/JcHt99SAbNIlY063rmylpA)
   - [【真实面试经历】我和阿里面试官的一次“邂逅”(附问题详解)](https://mp.weixin.qq.com/s/-DZj158-LOQmnCayf1_n3A)
   - [一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！！](https://mp.weixin.qq.com/s/HtLwChoLzqhbM4pKldLDng)
+  - [【Java】十道校招常见的面试题](https://mp.weixin.qq.com/s/wTKSvziyEXrSyf21iMjhZQ)
 - 程序人生系列
   - [2020无畏年少青春，迎风潇洒前行](https://mp.weixin.qq.com/s/66ZDj60KPEfohHg0g8Cggw)
   - [写作一个月的感受](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E5%86%99%E4%BD%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%84%9F%E6%81%A9%E8%8A%82%E5%AF%B9%E5%A4%A7%E5%AE%B6%E8%AF%B4%E7%9A%84%E8%AF%9D.md)
@@ -157,6 +158,7 @@
   - [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
   - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
   - [50天全网2W粉，感谢坚持！](https://mp.weixin.qq.com/s/_5tVdE9oFPBUK3Z0gKH26g)
+  - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
 - 吐血整理系列
   - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
