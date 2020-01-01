@@ -1,9 +1,4 @@
-[**我帮阿里云中间件团队的师兄推广服务器89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)。←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
-<p align="center">
-    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
-       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
-    </a>
-</p>
+
 
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（请允许我使用一下夸张的修辞手法)。
 
@@ -42,7 +37,11 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
-
+<p align="center">
+  <a  href="https://mp.weixin.qq.com/s/vlDebqj9Peh7Fb3n82Mt8A" >
+<img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga6snhrqubg30xc02smxj.gif"width="" style="margin: 0 auto;"/>
+  </a >
+</p>
 <a name="目录">目录</a>
 
 - Java基础核心串讲
