@@ -165,6 +165,7 @@
 - 吐血整理系列
   - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
   - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
+  - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
  # <a name="微信"></a>  <a name="公众号"></a>
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9zq2x908zj30m80rkn3q.jpg)
 # 赞赏码
@@ -221,6 +222,7 @@
        <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
     </a>
 </p>
+
 # 鸣谢列表
 
 以下排名不分先后!
