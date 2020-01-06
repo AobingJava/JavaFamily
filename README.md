@@ -38,7 +38,7 @@
 
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
 
-<a name="目录">目录</a>
+<a name="目录">📚目录</a>
 
 - Java基础核心串讲
   - 计算机操作系统与Linux
@@ -212,6 +212,15 @@
 经常有人问我看了能不能吊打面试官，不能。
 
 所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
+# 服务器购买
+我帮阿里云中间件团队的师兄推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
+
+[**←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+<p align="center">
+    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
+       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
+    </a>
+</p>
 # 鸣谢列表
 
 以下排名不分先后!
