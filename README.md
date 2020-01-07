@@ -216,7 +216,13 @@
 # 服务器购买
 我帮阿里云中间件团队的师兄推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的😂)
 
-[**←点击或者扫码购买↓**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+
+<p align="center">
+  <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" >
+  ←点击或者扫码购买↓
+  </a >
+</p>
+
 <p align="center">
     <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
        <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
