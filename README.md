@@ -189,8 +189,7 @@
   
  # <a name="微信"></a>  <a name="公众号"></a>
  
-![](https://tva1.sinaimg.cn/large/006tNbRwly1gbn1aq7m1pj30m80rk453.jpg)
-
+![](https://tva1.sinaimg.cn/large/006tNbRwly1ga01b4beuyj30m80rkgs8.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
