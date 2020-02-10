@@ -30,8 +30,7 @@
 
 
 
-![](https://tva1.sinaimg.cn/large/006tNbRwly1g9xph6bjrdj30tn36xnax.jpg)
-
+![](https://tva1.sinaimg.cn/large/0082zybply1gbrcdpathqj30jr2drqem.jpg)
 <a name="目录">📚目录</a>
 
 - Java基础核心串讲
@@ -46,11 +45,14 @@
   - [万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s/ktre8-C-cP_2HZxVW5fomQ)
   - [ConcurrentHashMap & Hashtable（文末送书）](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
   - [ArrayList](https://mp.weixin.qq.com/s/WoGclm7SsbURGigI3Mwr3w)
+  - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
+  - [面试官问我同步容器（如Vector）的所有操作一定是线程安全的吗？我懵了！](https://mp.weixin.qq.com/s/0cMrE87iUxLBw_qTBMYMgA)
   
 - 深入浅出JVM
 
   - JVM内存模型
   - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
+  - [看完这篇垃圾回收，和面试官扯皮没问题了（现在点外卖是天价！）](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
   - 性能调优、线上问题排查
   - 类加载机制详解
   - 垃圾回收机制
@@ -65,6 +67,7 @@
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
+  
 - 常用工具集
 
   - JVM问题排查工具-JMC
@@ -100,6 +103,10 @@
   - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
   - [秒杀系统设计](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.md)
   - [课代表总结](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E8%AF%BE%E4%BB%A3%E8%A1%A8%E6%80%BB%E7%BB%93.md)
+  - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
+  - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
+  - [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
+  - [什么鬼，面试官竟然让敖丙用Redis实现一个消息队列！！？](https://mp.weixin.qq.com/s/5NOTLJ6AM3QJfhvXMSR-MA)
   
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
@@ -114,14 +121,29 @@
   - 索引、锁机制
   - 事务特性、隔离级别
   - MySQL调优与最佳实践
-
+  - [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s/wr2gJGQSA8QH_lmPh1XOkw)
+  - [《吊打面试官》系列-数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
+  
 - 大数据
 
   - ODPS离线分析
-  - 搜索引擎组合 ElasticSearch、Canal、Kibana
   - Hive
   - Spark
   - Hadoop
+  - Hbase
+  - HDFS
+  
+- 搜索引擎
+
+  - ElasticSearch
+  - Canal
+  - Kibana
+  - Lucene
+  - Logstash
+  
+- 优秀开源框架推荐
+
+  - [阿里巴巴开源限流系统 Sentinel 全解析](https://mp.weixin.qq.com/s/NgS9tL4IVwGZrssz7fURpA)
 
 - 架构演进之路
 
@@ -186,6 +208,15 @@
   - [敖丙我参加了蘑菇街年会，流了一晚上鼻血](https://mp.weixin.qq.com/s/fkByjmdaqdw0TELDzdm5mQ)
   - [曾经我们并肩作战，敬未来一杯，敬资本一杯](https://mp.weixin.qq.com/s/s9HPYYi9VfYMt7UGCTqWVw)
   - [敖丙我写了一个新手都写不出的低级bug，被骂惨了。](https://mp.weixin.qq.com/s/yB9s771gDz6oMKZsUnJuyg)
+  - [敖丙的第一次相亲，还没开始，就已经结束了。](https://mp.weixin.qq.com/s/mLLbpnI1pVnlUzL7H3EuNQ)
+  
+- 过年特辑
+
+  - [贵州打工仔回家过年，遭遇流感，被隔离，偶遇读者，偶遇直播同行...](https://mp.weixin.qq.com/s/MXSWBVQyVD4OW0tjy5UO8Q)
+  - [敖丙回家过年，外婆说没带女朋友别回来了？喝了老爸89年的酒，当场反目。](https://mp.weixin.qq.com/s/pQrepZAbgP59gmj42Z1kdA)
+  - [【回忆杀】书房翻杂物，看到初恋的信件，看到奖牌，看到梅西、力宏，帅丙的眼角又湿了.....](https://mp.weixin.qq.com/s/VECNJbVV0Bz8PKlG8pYwVw)
+  - [疫情之下，从一座空城，到另一座空城，贵州小伙带你看不一样的杭州](https://mp.weixin.qq.com/s/8blBtbBLJtVvpnrJ7tmh_g)
+  - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
  # <a name="微信"></a>  <a name="公众号"></a>
  
