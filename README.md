@@ -194,14 +194,7 @@
   - [恰饭道歉](https://mp.weixin.qq.com/s/T-SNohqpF01NT0_GUiQHxQ)
   - [MacBook Pro 入手一年了，到底香不香？](https://mp.weixin.qq.com/s/SKzzAT-jBZ2l2R1Evr75ig)
   
-- 吐血整理系列
 
-  - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
-  - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
-  - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
-  - [IDEA破解(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/idea.md)
-  - [电子书(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
-    
 - 日常生活
 
   - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
@@ -218,6 +211,14 @@
   - [疫情之下，从一座空城，到另一座空城，贵州小伙带你看不一样的杭州](https://mp.weixin.qq.com/s/8blBtbBLJtVvpnrJ7tmh_g)
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
+- 福利
+  
+    - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
+    - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
+    - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
+    - [IDEA破解(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/idea.md)
+    - [电子书(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
+    - [面试资料](https:)
  # <a name="微信"></a>  <a name="公众号"></a>
  
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1ga01b4beuyj30m80rkgs8.jpg)
