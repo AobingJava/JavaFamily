@@ -6,7 +6,7 @@
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
-原创文章每周最少两篇，公众号首发，比博客早一到两篇.
+原创文章每周最少两篇，公众号首发文章，[【B站】](https://space.bilibili.com/130763764)首发视频，比博客早一到两篇。
 
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
@@ -29,7 +29,7 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gbrddtj9ksj30ol2dr4ez.jpg)
-# 📚目录
+# 目录(擅用Ctrl+F)
 
 - Java基础核心串讲
 
@@ -231,6 +231,9 @@
     </a>
 </p>
 
+# B站
+我在不久前已经开始了视频的拍摄，我会在这里分享技术，分享生活，关注我把(看视频点赞分享就好了，不同投币)。
+https://space.bilibili.com/130763764
 # 关于我
 
 [《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
