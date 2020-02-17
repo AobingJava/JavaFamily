@@ -218,7 +218,7 @@
     - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
     - [IDEA破解(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/idea.md)
     - [电子书(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
-    - [面试资料](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99)
+    - [面试资料(持续更新)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
  # <a name="微信"></a>  <a name="公众号"></a>
  
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1ga01b4beuyj30m80rkgs8.jpg)
