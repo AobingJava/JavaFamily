@@ -251,7 +251,7 @@ https://space.bilibili.com/130763764
 
 建知识星球的目的主要是做知识沉淀，和问题解答，我经常在知乎上看到私我的，有时候实在会疏忽。
 
-为此，丙丙创建了这个收费最低的知识星球。*[点击了解详细]()*
+为此，丙丙创建了这个收费最低的知识星球。**[点击了解详细](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
 
 # 岗位内推
 
