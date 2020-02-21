@@ -2,7 +2,7 @@
 
 作为一个在互联网公司面一次拿一次Offer的面霸，打败了无数竞争对手，每次都只能看到无数落寞的身影失望的离开，略感愧疚（请允许我使用一下夸张的修辞手法)。
 
-在一个寂寞难耐的夜晚，我痛定思痛，决定开始写面试相关的文章，希望能帮助各位读者以后面试势如破竹，对面试官进行360°的反击，吊打问你的面试官，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
+在一个寂寞难耐的夜晚，我痛定思痛，决定不再沉默，所以我开始写面试相关的文章了，希望能帮助各位读者以后面试势如破竹，让一同面试的同僚瞠目结舌，疯狂收割大厂**Offer**！
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
@@ -23,7 +23,7 @@
   <a href="https://me.csdn.net/qq_35190492"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
   <a href="https://www.cnblogs.com/aobing/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
   <a href="https://my.oschina.net/javaFamily"><img src="https://img.shields.io/badge/oschina-开源中国-green" alt="投稿"></a>
-  <a href="https://www.jianshu.com/u/e7c221a5d1d9"><img src="https://img.shields.io/badge/jianshu-简书-critical" alt="投稿"></a>
+  <a href="https://space.bilibili.com/130763764"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="投稿"></a>
   <a href="https://www.zhihu.com/people/aobingJava/activities"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
   <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
 </p>
@@ -237,21 +237,21 @@
 https://space.bilibili.com/130763764
 # 关于我
 
-[《2019年个人经历，2020无畏年少青春，迎风潇洒前行》](https://juejin.im/post/5df603bbf265da33c90b41d4)
+[《2019年个人经历，帮助您更了解我》](https://juejin.im/post/5df603bbf265da33c90b41d4)
 
 
 希望做技术人的指路明灯，做职场生涯的精神导师，成为万千少女的梦中情人。
 
-**也很希望跟大家分享职场的一路，一起成长，觉得我不错也记得分享给身边的朋友哟。**
+**也很希望跟大家分享职场的一路，一起成长，觉得我不错也记得分享给身边的朋友哟。(30岁想成为自由职业者)**
 
 # 知识星球
 我会在里面分享个人经历、分享经验、理财，职业规划，答疑等都会涉及，嘉宾分别是公众号大V、大厂架构师、阿里、美团、拼多多的技术专家，都是我朋友，希望能跟你共事（已经有读者去了阿里，也有一个来了蘑菇跟我做同事了，找机会我会分享出来）。
 
-**[【点击了解详细,领取-32的优惠券】](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
+**[【点击了解详细 领取减32的优惠券】](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
 
 # 岗位内推
 
-找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里\美团\蘑菇街\拼多多\字节跳动\腾讯等都可以.
+找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
 #### 近期机会:
 
