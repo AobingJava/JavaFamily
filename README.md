@@ -269,7 +269,7 @@ https://space.bilibili.com/130763764
  5、对复杂的服务端系统有构架、经验优化经验。对新技术热爱并有实际开发经验。
  6、具备电商或 crm经验优先，大数据分析开发相关实战经验者优先，对阿里巴巴产品及中间件熟悉者优先。
 
-投递邮箱  zack.lr@alibaba-inc.com
+投递邮箱  xichao.jy@alibaba-inc.com
 
 # 澄清
 
