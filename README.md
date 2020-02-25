@@ -226,7 +226,7 @@
 ![](https://tva1.sinaimg.cn/large/006tNbRwly1ga01b4beuyj30m80rkgs8.jpg)
 # 赞赏码
 
-熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说。
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说(微信搜:l888880880)。
 <p align="center">
     <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
         <img src="https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901" width=""/>
