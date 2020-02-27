@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a  href="www.baidu.com" >
+  <a  href="https://shimo.im/docs/wGRxyKRGrCvVp3kt/read" >
 <img src="https://tva1.sinaimg.cn/large/0082zybply1gcb2m6hbjlj30oi01w40b.jpg"width="" style="margin: 0 auto;"/>
   </a >
 </p>
