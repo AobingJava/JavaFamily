@@ -291,15 +291,11 @@ https://space.bilibili.com/130763764
 
 <p align="center">
   <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" >
-  ←点击或者扫码购买↓
+  [点击购买]
   </a >
 </p>
 
-<p align="center">
-    <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" target="_blank">
-       <img src="https://tva1.sinaimg.cn/large/006tNbRwly1ga1yz5mcxrj305k05kglw.jpg" width=""/>
-    </a>
-</p>
+
 
 # 鸣谢列表
 
