@@ -126,7 +126,7 @@
   - 事务特性、隔离级别
   - MySQL调优与最佳实践
   - [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s/wr2gJGQSA8QH_lmPh1XOkw)
-  - [《吊打面试官》系列-数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
+  - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
   
 - 大数据
 
@@ -229,7 +229,7 @@
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
  # <a name="微信"></a>  <a name="公众号"></a>
  
-![](https://tva1.sinaimg.cn/large/006tNbRwly1ga01b4beuyj30m80rkgs8.jpg)
+![](https://tva1.sinaimg.cn/large/00831rSTly1gck2pplt8ej315u0u0k1b.jpg)
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说(微信搜:l888880880)。
