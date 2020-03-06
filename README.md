@@ -227,17 +227,9 @@
     - [面试资料(持续更新)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [简历模板(欢迎补充)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
- # <a name="微信"></a>  <a name="公众号"></a>
  
-![](https://tva1.sinaimg.cn/large/00831rSTly1gck2pplt8ej315u0u0k1b.jpg)
-# 赞赏码
 
-熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(**不接受学生赞赏**)，赏了一定要加我微信跟我说(微信搜:l888880880)。
-<p align="center">
-    <a href="https://github.com/AobingJava/JavaFamily" target="_blank">
-        <img src="https://user-gold-cdn.xitu.io/2019/11/15/16e6f8c9f4d3b9bc?w=250&h=250&f=png&s=38901" width=""/>
-    </a>
-</p>
+
 
 # B站
 我在不久前已经开始了视频的拍摄，我会在这里分享技术，分享生活，关注我把(看视频点赞分享就好了，不用投币)。
@@ -283,6 +275,9 @@ https://space.bilibili.com/130763764
 经常有人问我看了能不能吊打面试官，不能。
 
 所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
+ #公众号 <a name="微信"></a>  <a name="公众号"></a>
+ 
+![](https://tva1.sinaimg.cn/large/00831rSTly1gck2pplt8ej315u0u0k1b.jpg)
 
 # 阿里云服务器
 
