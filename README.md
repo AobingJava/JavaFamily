@@ -37,6 +37,8 @@
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 # 目录(擅用Ctrl+F)
 
+注 : 没链接的是还没写
+
 - Java基础核心串讲
 
   - 计算机操作系统与Linux
@@ -171,19 +173,19 @@
 - 研发规范
 
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
-  - [原创 | 为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
+  - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   
 - 面试真题
 
-  - [《大厂面试》京东+百度一面，不小心都拿了Offer](https://mp.weixin.qq.com/s/VVonP6MgGRUnBnWa2ukkyw)
+  - [京东+百度一面，不小心都拿了Offer](https://mp.weixin.qq.com/s/VVonP6MgGRUnBnWa2ukkyw)
   - [蚂蚁金服2019实习生面经总结(已拿口头offer)](https://mp.weixin.qq.com/s/0opKiGbKjAfJkRVeVHzpZg)
   - [Bigo的Java面试，我挂在了第三轮技术面上......](https://mp.weixin.qq.com/s/3_HnVzGm16zU2zhk7BnwFw)
   - [15个经典的Spring面试常见问题](https://mp.weixin.qq.com/s/OMlwHHnGcN7iZ8lerUvW7w)
   - [Spring常见问题总结（补充版）](https://mp.weixin.qq.com/s/wcK2qsZxKDJTLIGqEIyaNg)
   - [我是如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s/JcHt99SAbNIlY063rmylpA)
-  - [【真实面试经历】我和阿里面试官的一次“邂逅”(附问题详解)](https://mp.weixin.qq.com/s/-DZj158-LOQmnCayf1_n3A)
+  - [我和阿里面试官的一次“邂逅”(附问题详解)](https://mp.weixin.qq.com/s/-DZj158-LOQmnCayf1_n3A)
   - [一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！！](https://mp.weixin.qq.com/s/HtLwChoLzqhbM4pKldLDng)
-  - [【Java】十道校招常见的面试题](https://mp.weixin.qq.com/s/wTKSvziyEXrSyf21iMjhZQ)
+  - [十道校招常见的面试题](https://mp.weixin.qq.com/s/wTKSvziyEXrSyf21iMjhZQ)
   - [JVM必问知识点:类加载过程](https://mp.weixin.qq.com/s/eHqFONXXNc-LD4ugaKM6UA)
   - [迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://mp.weixin.qq.com/s/EVequWGVMWV5Ki2llFzdHg)
 - 程序人生系列
@@ -213,15 +215,15 @@
 
   - [贵州打工仔回家过年，遭遇流感，被隔离，偶遇读者，偶遇直播同行...](https://mp.weixin.qq.com/s/MXSWBVQyVD4OW0tjy5UO8Q)
   - [敖丙回家过年，外婆说没带女朋友别回来了？喝了老爸89年的酒，当场反目。](https://mp.weixin.qq.com/s/pQrepZAbgP59gmj42Z1kdA)
-  - [【回忆杀】书房翻杂物，看到初恋的信件，看到奖牌，看到梅西、力宏，帅丙的眼角又湿了.....](https://mp.weixin.qq.com/s/VECNJbVV0Bz8PKlG8pYwVw)
+  - [书房翻杂物，看到初恋的信件，看到奖牌，看到梅西、力宏，帅丙的眼角又湿了.....](https://mp.weixin.qq.com/s/VECNJbVV0Bz8PKlG8pYwVw)
   - [疫情之下，从一座空城，到另一座空城，贵州小伙带你看不一样的杭州](https://mp.weixin.qq.com/s/8blBtbBLJtVvpnrJ7tmh_g)
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
 - 福利
   
-    - [顶级程序员书单集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
-    - [顶级程序员的百宝箱](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
-    - [顶级大佬学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
+    - [整理的书单(附个人喜欢的文学书)](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
+    - [整理好用的工具集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
+    - [通用的学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
     - [IDEA破解(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/idea.md)
     - [电子书(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%94%B5%E5%AD%90%E4%B9%A6.md)
     - [面试资料(持续更新)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
