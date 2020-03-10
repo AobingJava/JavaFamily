@@ -219,7 +219,7 @@
   - [疫情之下，从一座空城，到另一座空城，贵州小伙带你看不一样的杭州](https://mp.weixin.qq.com/s/8blBtbBLJtVvpnrJ7tmh_g)
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
-- **福利**🎁
+- **福利**
   
     - [整理的书单(附个人喜欢的文学书)](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E3%80%8A%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E3%80%8B%E5%8D%81%E5%B9%B4%E9%A3%8E%E9%9B%A8%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%9A%84%E4%B9%A6%E5%8D%95%E6%95%B4%E7%90%86.md)
     - [整理好用的工具集](https://github.com/AobingJava/JavaFamily/blob/master/docs/creative/%E9%A1%B6%E7%BA%A7%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E7%99%BE%E5%AE%9D%E7%AE%B1.md)
@@ -231,24 +231,27 @@
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
  
 
+# 项目经验&服务器
+大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
 
+我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)
 
-# B站
-[【大厂模拟面试视频】](https://space.bilibili.com/130763764)
+[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+ 
+
+# 关于我&哔哩哔哩
+[**【大厂模拟面试视频】**](https://space.bilibili.com/130763764)
+
+[**《2019年个人经历，帮助您更了解我》**](https://juejin.im/post/5df603bbf265da33c90b41d4)
 
 我在不久前已经开始了视频的拍摄，我会在这里分享技术，分享生活，**已经开始模拟大厂面试了**，关注我把(看视频点赞分享就好了，不用投币)。
 
-# 关于我
+# 技术交流群
+加我微信 : aobing2 备注【加群】即可
 
-[《2019年个人经历，帮助您更了解我》](https://juejin.im/post/5df603bbf265da33c90b41d4)
-
-
-希望做技术人的指路明灯，做职场生涯的精神导师，成为万千少女的梦中情人。
-
-**也很希望跟大家分享职场的一路，一起成长，觉得我不错也记得分享给身边的朋友哟。(30岁想成为自由职业者)**
 
 # 知识星球
-**[【点击了解详细 领取减32的优惠券】](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
+**[**【点击了解详细 领取减32的优惠券】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
 
 我会在里面分享个人经历、分享经验、理财，职业规划，答疑等都会涉及，嘉宾分别是公众号大V、大厂架构师、阿里、美团、拼多多的技术专家，都是我朋友，希望能跟你共事（已经有读者去了阿里，也有一个来了蘑菇跟我做同事了，找机会我会分享出来）。
 
@@ -265,20 +268,6 @@
 经常有人问我看了能不能吊打面试官，不能。
 
 所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
-
- 
-
-# 阿里云服务器
-
-我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)
-
-
-<p align="center">
-  <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" >
-  [点击购买]
-  </a >
-</p>
-
 
 
 # 鸣谢列表
