@@ -237,6 +237,7 @@
 我和阿里云合作服务器，给我的折扣价比较便宜：89/年，223/3年，比学生9.9每月还便宜，买了搭建个项目给面试官看不香么，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)[【点击购买(推荐买3年的)】](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
 
 
+
 <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
 <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
