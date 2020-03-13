@@ -234,7 +234,14 @@
 # 项目经验&服务器
 大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
 
-我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)
+
+[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+ 
+
+![](https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg)![](https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg)
+
+
  
 
 # 关于我&哔哩哔哩
