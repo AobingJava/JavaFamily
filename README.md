@@ -236,10 +236,17 @@
 
 我和阿里云合作帮他们推广服务器，比较便宜：89/年，229/3年，比学生9.9每月还便宜，买来送自己，送女朋友，再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈（老用户用家人账号买就好了，我用我妈的)
 
-[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+<p align="center">
+  <a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" >
+  【点击购买】
+  </a >
+</p>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
+<a  href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
+
  
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg)![](https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg)
 
 
  
