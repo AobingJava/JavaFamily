@@ -542,5 +542,3 @@ RocketMQ同其他MQ有非常显著的区别，RocketMQ的内存**Buffer**抽象�
 ------
 
 > 《吊打面试官》系列每周持续更新，可以关注我的公众号「 **JavaFamily** 」第一时间阅读和催更（公众号比博客早一到两篇哟），本文**GitHub**[https://github.com/JavaFamily](https://github.com/AobingJava/JavaFamily) 已收录，有一线大厂面试点思维导图，欢迎Star和完善，里面也有我个人联系方式有什么问题也可以直接找我，也有技术交流群，我们一起有点东西。
-
-![](https://tva1.sinaimg.cn/large/006y8mN6ly1g9e2keyxw6j30m80nmjyj.jpg)
