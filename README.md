@@ -240,6 +240,50 @@
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
  
 
+
+
+
+# MyAll
+
+2019个人经历 : https://juejin.im/post/5df603bbf265da33c90b41d4
+
+公众号：三太子敖丙  
+
+B站：https://space.bilibili.com/130763764
+
+直播（每周五可能）：http://live.bilibili.com/21996111
+
+GitHub：https://github.com/AobingJava/JavaFamily
+
+知乎：https://www.zhihu.com/people/aobingJava
+
+CSDN：https://blog.csdn.net/qq_35190492
+
+掘金：https://juejin.im/user/59b416065188257e671b670a
+
+思否：https://segmentfault.com/u/aobing
+
+开源中国：https://my.oschina.net/javaFamily
+
+今日头条：https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746
+
+技术交流群 我微信 aobing2 备注【加群】即可
+
+
+# 祝福
+
+希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开环大笑的路，加油。
+
+如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。
+
+敖丙在工作中发现我身边的人真的就是实力越强的越努力，**最高级的自律，享受孤独**。
+
+
+# 知识星球
+**[**【点击了解详细 领取减32的优惠券】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
+
+我会在里面分享个人经历、分享经验、理财，职业规划，答疑等都会涉及，嘉宾分别是公众号大V、大厂架构师、阿里、美团、拼多多的技术专家，都是我朋友，希望能跟你共事（已经有读者去了阿里，也有一个来了蘑菇跟我做同事了，找机会我会分享出来）。
+
 # 项目经验&服务器
 大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
 
@@ -253,33 +297,19 @@
 <a  href="https://dashi.aliyun.com/site/aobing/ali" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
 
 
-# 关于我&哔哩哔哩
-[**【大厂模拟面试视频】**](https://space.bilibili.com/130763764)         [**《2019年个人经历，帮助您更了解我》**](https://juejin.im/post/5df603bbf265da33c90b41d4)
-
-我在不久前已经开始了视频的拍摄，我会在这里分享技术，分享生活，**已经开始模拟大厂面试了**，关注我把(看视频点赞分享就好了，不用投币)。
-
-# 技术交流群
-加我微信 : aobing2 备注【加群】即可
-
-
-# 知识星球
-**[**【点击了解详细 领取减32的优惠券】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.md)**
-
-我会在里面分享个人经历、分享经验、理财，职业规划，答疑等都会涉及，嘉宾分别是公众号大V、大厂架构师、阿里、美团、拼多多的技术专家，都是我朋友，希望能跟你共事（已经有读者去了阿里，也有一个来了蘑菇跟我做同事了，找机会我会分享出来）。
-
-
-
 # 岗位内推
 
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
 投递邮箱  xichao.jy@alibaba-inc.com
 
-# 澄清
+# 赞赏码
 
-经常有人问我看了能不能吊打面试官，不能。
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)，赏了一定要加我微信跟我说。
 
-所有文章的名字只是我的噱头，我们应该有一颗谦逊的心，所以希望大家怀着空杯心态好好学，一起进步。
+<a href="https://github.com/kinglaw1204">
+    <img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2qbdv1jnj30u00u0jzq.jpg" width="450px">
+</a>
 
 
 # 鸣谢列表
