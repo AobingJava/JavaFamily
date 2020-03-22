@@ -306,10 +306,9 @@ CSDN：https://blog.csdn.net/qq_35190492
 # 赞赏码
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)，赏了一定要加我微信跟我说。
-
-<a href="https://github.com/kinglaw1204">
+<p align="center">
     <img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2qbdv1jnj30u00u0jzq.jpg" width="450px">
-</a>
+</p>
 
 
 # 鸣谢列表
