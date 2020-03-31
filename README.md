@@ -35,9 +35,9 @@
 </p>
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
-# 目录(擅用Ctrl+F)
+# 目录(善用Ctrl+F)
 
-注 : 没链接的是还没写
+**注 : 没链接的是还没写**
 
 - Java基础核心串讲
 
@@ -301,7 +301,7 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
-投递邮箱  xichao.jy@alibaba-inc.com
+阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com  蘑菇街/其他岗位 : aobing@mogu.com 
 
 
 ### 近期机会
