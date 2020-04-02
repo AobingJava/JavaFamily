@@ -294,7 +294,9 @@ CSDN：https://blog.csdn.net/qq_35190492
   </a>
 </p>
 
-折扣价比较便宜：**89/年，223/3年**，比学生9.9每月还便宜，买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点(只阿里云新用户可用)**[【点击购买】](https://dashi.aliyun.com/site/aobing/ali)
+活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
+
+买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://dashi.aliyun.com/site/aobing/ali)
 
 
 <p align="center">
@@ -303,9 +305,9 @@ CSDN：https://blog.csdn.net/qq_35190492
   </a>
 </p>
 
-云耀云服务器，88元一年起！！！
+云耀云服务器，88元一年起(新老客同享)
 
-注意，不是突发型只有20%性能，也不是共享型，完全独享。[【点击购买】](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=0000000100000002397FC3486136A8A228A4EEDBD408B703FD4F6E2554DE57DADBAAE258A0A470FF638CCBA4F6E6D7B96BAC699FB0B358893D777322B7EF42CBC65CFF9C2674D4B1&inviteCode=00000001000000022498FE65E67F08D6E9B44E4B442BE92FA6E9B01F17DC6073F95E152B19925256&bindType=1&isDefault=1)
+注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=0000000100000002397FC3486136A8A228A4EEDBD408B703FD4F6E2554DE57DADBAAE258A0A470FF638CCBA4F6E6D7B96BAC699FB0B358893D777322B7EF42CBC65CFF9C2674D4B1&inviteCode=00000001000000022498FE65E67F08D6E9B44E4B442BE92FA6E9B01F17DC6073F95E152B19925256&bindType=1&isDefault=1)
 
 
 
