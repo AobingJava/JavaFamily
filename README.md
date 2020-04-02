@@ -287,14 +287,28 @@ CSDN：https://blog.csdn.net/qq_35190492
 # 项目经验&服务器
 大家都说简历没项目写，我就帮大家找了一个项目，还附赠[**【搭建教程】**](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E6%95%99%E4%BD%A0%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E9%9D%A2%E8%AF%95%E9%A1%B9%E7%9B%AE.md)。
 
-我和阿里云合作服务器，折扣价比较便宜：**89/年，223/3年**，比学生9.9每月还便宜，买了搭建个项目，熟悉技术栈比较香（老用户用家人账号买就好了，我用我妈的)**推荐买三年的划算点，点击图片购买即可**
 
 <p align="center">
-  
+  <a href="https://dashi.aliyun.com/site/aobing/ali">
+  <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
+  </a>
 </p>
-<a  href="https://dashi.aliyun.com/site/aobing/ali" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6ndx952j307v0b0t9k.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://dashi.aliyun.com/site/aobing/ali" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6omhe3mj307p0b2754.jpg"width="" style="margin: 0 auto;"/></a>
-<a  href="https://dashi.aliyun.com/site/aobing/ali" ><img src="https://tva1.sinaimg.cn/large/00831rSTly1gcs6tnpvs9j307s0b0aau.jpg"width="" style="margin: 0 auto;"/></a>
+
+折扣价比较便宜：**89/年，223/3年**，比学生9.9每月还便宜，买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点(只阿里云新用户可用)**[【点击购买】](https://dashi.aliyun.com/site/aobing/ali)
+
+
+<p align="center">
+  <a href="https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=0000000100000002397FC3486136A8A228A4EEDBD408B703FD4F6E2554DE57DADBAAE258A0A470FF638CCBA4F6E6D7B96BAC699FB0B358893D777322B7EF42CBC65CFF9C2674D4B1&inviteCode=00000001000000022498FE65E67F08D6E9B44E4B442BE92FA6E9B01F17DC6073F95E152B19925256&bindType=1&isDefault=1">
+  <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi1pc65nj306q02aglm.jpg">
+  </a>
+</p>
+
+云耀云服务器，88元一年起！！！
+
+注意，不是突发型只有20%性能，也不是共享型，完全独享。[【点击购买】](https://account.huaweicloud.com/obmgr/invitation/invitation.html?bpName=0000000100000002397FC3486136A8A228A4EEDBD408B703FD4F6E2554DE57DADBAAE258A0A470FF638CCBA4F6E6D7B96BAC699FB0B358893D777322B7EF42CBC65CFF9C2674D4B1&inviteCode=00000001000000022498FE65E67F08D6E9B44E4B442BE92FA6E9B01F17DC6073F95E152B19925256&bindType=1&isDefault=1)
+
+
+
 
 
 # 岗位内推
