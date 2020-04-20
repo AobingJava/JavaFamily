@@ -34,11 +34,6 @@
   <a href="https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746"><img src="https://img.shields.io/badge/toutiao-头条-9cf" alt="投稿"></a>
 </p>
 
-<p align="center">
-  <a  href="https://shimo.im/docs/wGRxyKRGrCvVp3kt/read" >
-<img src="https://tva1.sinaimg.cn/large/0082zybply1gcb2m6hbjlj30oi01w40b.jpg"width="" style="margin: 0 auto;"/>
-  </a >
-</p>
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 # 目录(善用Ctrl+F)
