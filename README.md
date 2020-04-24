@@ -299,6 +299,8 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 技术交流群：添加我微信  aobing2  备注【加群】即可
 
+投稿：投稿可获得100-1000元不等的稿酬 点击 [【查看详情】](http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=305658311&idx=1&sn=4a38e5bbb8845a245452f8ffad9fe4b3&chksm=0cf2db443b855252577ac26a16bbf477942401f7e832bd075866d82a0fa25a02ab5b1534cb72#rd)
+
 
 # 祝福
 
@@ -307,6 +309,7 @@ CSDN：https://blog.csdn.net/qq_35190492
 如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。
 
 敖丙在工作中发现我身边的人真的就是实力越强的越努力，**最高级的自律，享受孤独**。
+
 
 
 # 知识星球
@@ -437,6 +440,11 @@ CSDN：https://blog.csdn.net/qq_35190492
 <a href="https://github.com/fanchenggang">  
     <img src="https://avatars0.githubusercontent.com/u/20358122?s=460&v=4" width="45px">
 </a>
+
+
+# 赞助商
+以下排名不分先后!
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1ge4xvdlh0wj30zk0d1q6d.jpg)
 
   <a name="微信"></a>  <a name="公众号"></a>
   
