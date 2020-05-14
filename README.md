@@ -344,7 +344,9 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 找所有职位比较出色的朋友，觉得合适的给我简历我可以内推，阿里、美团、蘑菇街、拼多多、字节跳动、腾讯等都可以.
 
-阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
+阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           
+
+字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
 
 
 ### 近期机会
