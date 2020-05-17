@@ -26,6 +26,9 @@
 
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gek7wtyci9j30u0a9h1kz.jpg)
+
+[后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+
 # 目录(善用Ctrl+F)
 
 **注 : 没链接的是还没写**
@@ -35,6 +38,7 @@
   - 计算机操作系统与Linux
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
+  - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - Java必会基础与新版本特性
@@ -43,9 +47,12 @@
   - [万万没想到，HashMap默认容量的选择，竟然背后有这么多思考！？](https://mp.weixin.qq.com/s/ktre8-C-cP_2HZxVW5fomQ)
   - [ConcurrentHashMap & Hashtable（文末送书）](https://mp.weixin.qq.com/s/AixdbEiXf3KfE724kg2YIw)
   - [ArrayList](https://mp.weixin.qq.com/s/WoGclm7SsbURGigI3Mwr3w)
+  - [ArrayList源码解析，老哥，来一起复习一哈？](https://mp.weixin.qq.com/s/3PNWmtS-bEZgZjd9wyMiDA)
   - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
   - [面试官问我同步容器（如Vector）的所有操作一定是线程安全的吗？我懵了！](https://mp.weixin.qq.com/s/0cMrE87iUxLBw_qTBMYMgA)
   - [全网最透彻HTTPS（面试常问）](https://mp.weixin.qq.com/s/21JaXwdfSjItj5SgOwhapg)
+  - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
+  - [我就知道面试官接下来要问我 ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
   
 - 深入浅出JVM
 
@@ -68,6 +75,9 @@
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
+  - [我画了35张图就是为了让你深入 AQS](https://mp.weixin.qq.com/s/trsjgUFRrz40Simq2VKxTA)
+  - [终于有人把 CountDownLatch，CyclicBarrier，Semaphore 说明白了!](https://mp.weixin.qq.com/s/TDw7GnzDw5FK3RWwkIzzZA)
+  - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
   
 - 常用工具集
 
@@ -89,14 +99,18 @@
 - 必会框架
 
   - Spring全家桶以及源码分析
+  - [一分钟带你玩转 Spring IoC](https://mp.weixin.qq.com/s/WpRSitDqtgOuU9GnI1-HDw)
+  - [Spring事务传播行为](https://mp.weixin.qq.com/s/IglQITCkmx7Lpz60QOW7HA)
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
+  - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
   - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
   - [分布式锁之Zookeeper](https://mp.weixin.qq.com/s/ZqQHWLfVD1Rz1agmH3LWrg)
+  - [Zookeeper之ZAB协议](https://mp.weixin.qq.com/s/k0zAExTvMsrugCaNJxs7hQ)
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
@@ -213,9 +227,11 @@
   - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)
   - [Java后端实习面经，电子科大大三读者投稿！看了之后感触颇深！很开心！](https://mp.weixin.qq.com/s/ttKI82_CQdMmxoBw8TS92g)
   - [敖丙读者只复习了半年，怒拿字节跳动Offer](https://mp.weixin.qq.com/s/g6qFbEWfJeahzuzjECuvDg)
+  - [敖丙读者一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸阿里云 ！](https://mp.weixin.qq.com/s/F2TiFw-LYFXMRj_hsD-TIw)
   
 - 程序人生系列
-
+  
+  - [大学个人经历 | 如诗的青春](https://mp.weixin.qq.com/s/FJC2uEg9o56dqCPijgizFA)
   - [蘑菇街裁员说明 海阔凭鱼跃，天高任鸟飞](https://mp.weixin.qq.com/s/JB6CT4SfOg8e9lhkiWwZNg)
   - [我知道互联网不相信眼泪，但是敖丙今天还是没忍住](https://mp.weixin.qq.com/s/UC6NsEFlNfqMdEkzvHxKRA)
   - [2020无畏年少青春，迎风潇洒前行](https://mp.weixin.qq.com/s/66ZDj60KPEfohHg0g8Cggw)
@@ -229,16 +245,22 @@
   - [50天全网2W粉，感谢坚持！](https://mp.weixin.qq.com/s/_5tVdE9oFPBUK3Z0gKH26g)
   - [恰饭道歉](https://mp.weixin.qq.com/s/T-SNohqpF01NT0_GUiQHxQ)
   - [MacBook Pro 入手一年了，到底香不香？](https://mp.weixin.qq.com/s/SKzzAT-jBZ2l2R1Evr75ig)
+  - [敖丙参加了一场温州游资的婚礼](https://mp.weixin.qq.com/s/sM3hJe5z3_pCH-8GWs0iOA)
+  - [【互联网寒冬】经历裁员，拿20W被迫去大厂](https://mp.weixin.qq.com/s/0WurpFJlZQtjjdleGPK0Cw)
+  - [【相亲】95年高颜值妹子，喜欢上进的男生](https://mp.weixin.qq.com/s/LCaZQAVL1DnihhngZ3Wq0w)
+  - [敖丙枯燥无味的假期，一直在吃狗粮](https://mp.weixin.qq.com/s/1jQnRCXdrUQzZInQmzABvA)
+  - [我的青春结束了](https://mp.weixin.qq.com/s/matyTWXuZ_qs9hGfAl9_NQ)
+  - [时间刺客--敖丙](https://mp.weixin.qq.com/s/wlfurOBpxeaf6iy7CtHRlA)
   
-
 - 日常生活
-
+  
   - [送别了好友，敖丙跟你聊聊【离职】这个话题](https://mp.weixin.qq.com/s/pHcgkDvKfElRIVZGd4Kzng)
   - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
   - [敖丙我参加了蘑菇街年会，流了一晚上鼻血](https://mp.weixin.qq.com/s/fkByjmdaqdw0TELDzdm5mQ)
   - [曾经我们并肩作战，敬未来一杯，敬资本一杯](https://mp.weixin.qq.com/s/s9HPYYi9VfYMt7UGCTqWVw)
   - [敖丙我写了一个新手都写不出的低级bug，被骂惨了。](https://mp.weixin.qq.com/s/yB9s771gDz6oMKZsUnJuyg)
   - [敖丙的第一次相亲，还没开始，就已经结束了。](https://mp.weixin.qq.com/s/mLLbpnI1pVnlUzL7H3EuNQ)
+  - [我的母亲](https://mp.weixin.qq.com/s/yGcgvp9s18CERp9nx2iigw)
   
 - 过年特辑
 
@@ -266,6 +288,8 @@
 # MyAll
 
 2019个人经历：https://juejin.im/post/5df603bbf265da33c90b41d4
+
+大学个人经历：https://mp.weixin.qq.com/s/FJC2uEg9o56dqCPijgizFA
 
 公众号：三太子敖丙  
 
