@@ -75,6 +75,7 @@
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
   - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
+  - [死磕Synchronized源码](https://mp.weixin.qq.com/s/2ka1cDTRyjsAGk_-ii4ngw)
   - [我画了35张图就是为了让你深入 AQS](https://mp.weixin.qq.com/s/trsjgUFRrz40Simq2VKxTA)
   - [终于有人把 CountDownLatch，CyclicBarrier，Semaphore 说明白了!](https://mp.weixin.qq.com/s/TDw7GnzDw5FK3RWwkIzzZA)
   - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
