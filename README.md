@@ -155,6 +155,7 @@
   - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
+  - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
   
 - 大数据
 
@@ -207,7 +208,8 @@
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
   
 - 面试真题
-
+    
+  - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)  
   - [二本 两年经验读者 阿里P6面经](https://mp.weixin.qq.com/s/WOS6HMdt1-mAGuLiC30_-Q)
   - [3 年经验的 Java 后端妹子，横扫阿里、滴滴、美团，看完面经我觉得敖丙是垃圾！](https://mp.weixin.qq.com/s/oAnGGBkre7Z4VkhME-TgzQ)
   - [2020 字节跳动后端面经分享！已拿 offer!](https://mp.weixin.qq.com/s/hr2pDs2wsiHQuDzW7jmOow)
