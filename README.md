@@ -208,7 +208,7 @@
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
   
-- 面试真题
+- 面试真题&面经分享
     
   - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)  
   - [二本 两年经验读者 阿里P6面经](https://mp.weixin.qq.com/s/WOS6HMdt1-mAGuLiC30_-Q)
@@ -246,17 +246,16 @@
   - [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
   - [从毕业到技术专家我做了啥](https://github.com/AobingJava/JavaFamily/blob/master/docs/coderLife/%E9%A3%8E%E9%9B%A8%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%AF%95%E4%B8%9A%E5%88%B0%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E6%88%91%E5%81%9A%E4%BA%86%E5%95%A5.md)
   - [50天全网2W粉，感谢坚持！](https://mp.weixin.qq.com/s/_5tVdE9oFPBUK3Z0gKH26g)
-  - [恰饭道歉](https://mp.weixin.qq.com/s/T-SNohqpF01NT0_GUiQHxQ)
   - [MacBook Pro 入手一年了，到底香不香？](https://mp.weixin.qq.com/s/SKzzAT-jBZ2l2R1Evr75ig)
-  - [敖丙参加了一场温州游资的婚礼](https://mp.weixin.qq.com/s/sM3hJe5z3_pCH-8GWs0iOA)
   - [【互联网寒冬】经历裁员，拿20W被迫去大厂](https://mp.weixin.qq.com/s/0WurpFJlZQtjjdleGPK0Cw)
   - [【相亲】95年高颜值妹子，喜欢上进的男生](https://mp.weixin.qq.com/s/LCaZQAVL1DnihhngZ3Wq0w)
-  - [敖丙枯燥无味的假期，一直在吃狗粮](https://mp.weixin.qq.com/s/1jQnRCXdrUQzZInQmzABvA)
   - [我的青春结束了](https://mp.weixin.qq.com/s/matyTWXuZ_qs9hGfAl9_NQ)
   - [时间刺客--敖丙](https://mp.weixin.qq.com/s/wlfurOBpxeaf6iy7CtHRlA)
   
 - 日常生活
   
+  - [敖丙参加了一场温州游资的婚礼](https://mp.weixin.qq.com/s/sM3hJe5z3_pCH-8GWs0iOA)
+  - [敖丙枯燥无味的假期，一直在吃狗粮](https://mp.weixin.qq.com/s/1jQnRCXdrUQzZInQmzABvA)
   - [送别了好友，敖丙跟你聊聊【离职】这个话题](https://mp.weixin.qq.com/s/pHcgkDvKfElRIVZGd4Kzng)
   - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
   - [敖丙我参加了蘑菇街年会，流了一晚上鼻血](https://mp.weixin.qq.com/s/fkByjmdaqdw0TELDzdm5mQ)
