@@ -347,7 +347,7 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 云耀云服务器，88元一年起
 
-注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/discount_area_v5/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682)
+注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/2020_618_promotion/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682)
 
 
 <p align="center">
