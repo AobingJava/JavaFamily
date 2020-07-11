@@ -337,9 +337,9 @@ CSDN：https://blog.csdn.net/qq_35190492
 
 今日头条：https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746
 
-技术交流群：添加我微信  aobing2  备注【加群】即可
+技术交流群：添加我微信  Aobingcool  备注【加群】即可
 
-投稿：投稿可获得100-1000元不等的稿酬 点击 [【查看详情】](http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=305658311&idx=1&sn=4a38e5bbb8845a245452f8ffad9fe4b3&chksm=0cf2db443b855252577ac26a16bbf477942401f7e832bd075866d82a0fa25a02ab5b1534cb72#rd)
+投稿：投稿可获得400-2000元不等的稿酬 点击 [【查看详情】](http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=305658311&idx=1&sn=4a38e5bbb8845a245452f8ffad9fe4b3&chksm=0cf2db443b855252577ac26a16bbf477942401f7e832bd075866d82a0fa25a02ab5b1534cb72#rd)
 
 
 # 祝福
