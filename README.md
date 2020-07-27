@@ -336,38 +336,9 @@
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [5分钟白嫖敖丙常用的免费效率软件/工具！](https://mp.weixin.qq.com/s/2_hM5Z9IMLIRQ2QEPTABcQ)
 
-
-
-
-# MyAll
-
-2019个人经历：https://juejin.im/post/5df603bbf265da33c90b41d4
-
-大学个人经历：https://mp.weixin.qq.com/s/FJC2uEg9o56dqCPijgizFA
-
-公众号：三太子敖丙  
-
-B站：https://space.bilibili.com/130763764
-
-直播：http://live.bilibili.com/21996111（每周五可能）
-
-GitHub：https://github.com/AobingJava/JavaFamily
-
-知乎：https://www.zhihu.com/people/aobingJava
-
-CSDN：https://blog.csdn.net/qq_35190492
-
-掘金：https://juejin.im/user/59b416065188257e671b670a
-
-思否：https://segmentfault.com/u/aobing
-
-开源中国：https://my.oschina.net/javaFamily
-
-今日头条：https://www.toutiao.com/c/user/3270187212/#mid=1557137040287746
-
 技术交流群：添加我微信  Aobingcool  备注【加群】即可
 
-投稿：投稿可获得500-3000元不等的稿酬 点击 [【查看详情】](http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=305658311&idx=1&sn=4a38e5bbb8845a245452f8ffad9fe4b3&chksm=0cf2db443b855252577ac26a16bbf477942401f7e832bd075866d82a0fa25a02ab5b1534cb72#rd)
+投稿：个人精力有限欢迎大家投稿 投稿可获得500-3000元不等的稿酬 点击 [【查看详情】](http://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=305658311&idx=1&sn=4a38e5bbb8845a245452f8ffad9fe4b3&chksm=0cf2db443b855252577ac26a16bbf477942401f7e832bd075866d82a0fa25a02ab5b1534cb72#rd)
 
 
 # 祝福
@@ -506,7 +477,7 @@ p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人�
 
 # 赞赏码
 
-熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)，赏了一定要加我微信跟我说。
+熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)。
 <p align="center">
     <img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2qbdv1jnj30u00u0jzq.jpg" width="450px">
 </p>
@@ -564,9 +535,7 @@ p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人�
 <a href="https://github.com/cnLGMing">  
     <img src="https://avatars2.githubusercontent.com/u/15910705?s=460&v=4" width="45px">
 </a>
-<a href="https://github.com/fanchenggang">  
-    <img src="https://avatars0.githubusercontent.com/u/20358122?s=460&v=4" width="45px">
-</a>
+
 
 
 # 赞助商
