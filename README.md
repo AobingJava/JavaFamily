@@ -55,6 +55,7 @@
   - [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
   - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
   - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
+  - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
@@ -73,7 +74,7 @@
   - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
   - [我就知道面试官接下来要问我 ConcurrentHashMap 底层原理了](https://mp.weixin.qq.com/s/My4P_BBXDnAGX1gh630ZKw)
   - [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/bVOSat47L0Hskfx9akAN6Q)
-  
+  - [Java 集合中「堆」是啥？](https://mp.weixin.qq.com/s/eSCVJclB-IaJYkPKsWSkRA)
   
 - 深入浅出JVM
 
@@ -131,6 +132,7 @@
   - [什么是 Spring 循环依赖？](https://mp.weixin.qq.com/s/5mwkgJB7GyLdKDgzijyvXw)
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - [敖丙说精通字符串，面试官竟然问Java中的String有没有长度限制！](https://mp.weixin.qq.com/s/6YhpbuhdTX9BM_OimoW8MA)
+  - [Spring中的循环依赖](https://mp.weixin.qq.com/s/kS0K5P4FdF3v-fiIjGIvvQ)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
   - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
@@ -145,6 +147,7 @@
   
 - [高并发架构基石-缓存](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
+  - [再见了Antirez我永远的神](https://mp.weixin.qq.com/s/u3Ws1FGhJVIJdpM8IHI7OQ)
   - [敖丙在蘑菇街的redis技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
   - [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
   - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
@@ -167,6 +170,7 @@
   - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
   - [妈妈再也不担心我面试被Redis问得脸都绿了](https://mp.weixin.qq.com/s/vXBFscXqDcXS_VaIERplMQ)
   - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
+  - [秒杀系统2.0](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
   
 - [消息队列](https://github.com/AobingJava/JavaFamily/tree/master/docs/mq)
 
@@ -224,6 +228,7 @@
   - 从All in one 到微服务
   - 互联网架构之路
   - 怎么设计一个能顶住双十一的系统？
+  - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
 
 - 互联网前沿技术
 
@@ -246,9 +251,12 @@
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
+  - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
   
 - 面试真题&面经分享
-  
+
+  - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
+  - [一位读者小姐姐的阿里面经分享，快被问哭了！（附部分问题详解）](https://mp.weixin.qq.com/s/jnegDdp4OMSKynZl8OBIpw) 
   - [小姐姐面试蚂蚁金服被虐经历，心疼...](https://mp.weixin.qq.com/s/nzvg3e-RgM59zs9WSeUpLg)
   - [读者一个月拿到阿里字节拼多多offer](https://mp.weixin.qq.com/s/kSiLvSrAMwrHLwxvesyjBw)
   - [被裁一个月面试的面经和经验分享](https://mp.weixin.qq.com/s/MkjSYc0JA1-VErX3lJzPmQ)  
@@ -276,6 +284,7 @@
   
 - 程序人生系列
 
+  - [入职一周年，我眼中的蘑菇街](https://mp.weixin.qq.com/s/LjFfDwT62usphaock5pU8Q)
   - [鲜衣怒马少年时，一日看尽长安花](https://mp.weixin.qq.com/s/oY3CxB2Dk82mBs4W77Zrcw)  
   - [24岁我全款买了人生的第一辆车](https://mp.weixin.qq.com/s/aK6ASJO6G1q4mY3TUShCqQ)
   - [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
@@ -398,14 +407,169 @@
 字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
 
 
+## 蘑菇街实习岗位
 
-## 近期机会
+### 岗位： 搭配购实习生  地点：蘑菇街本部	  需求:若干
+
+#### 岗位职责：
+
+1、负责搭配购的内容生产，包含选品搭配拍摄、选图及搭配图制作。
+
+2、及时跟进搭配的数据，做出调整，提高频道的产出。
+
+#### 任职资格：
+
+1、有良好的时尚审美，喜欢穿搭，有自己的穿搭内容输出则更佳。
+
+2、学习能力强，善于沟通，有工作责任心。
+
+3、具有基础拍照及Photoshop经验，擅长则更佳。	　
+
+
+### 岗位：频道运营实习生  地点：蘑菇街本部	  需求 : 1
+
+#### 岗位职责：
+
+1.依托于蘑菇街商城的海量商品和营销工具，根据市场及用户需求，独立制定营销方案、推进实施，并针对营销活动做销售分析;
+
+2.具有选款比价能力，负责蘑菇街商城日常上新商品的评估和比对;
+
+3.了解用户需求，掌握蘑菇街用户的购物喜好;
+
+4.对推荐商品的gmv、收入以及客诉率负责。
+
+#### 任职资格：
+
+1.本科及以上学历，电子商务专业优先；
+
+2.良好的理解、语言表达和沟通协调能力，以及较强的服务意识；
+
+3.具备数据整理、分析能力和总结能力，可以对营销进行分析总结并出具报告；
+
+4.具备一定的审美创意，精通使用photoshop等相关软件；
+
+5.抗压能力强，具有强的学习能力、责任心和团队合作精神。	　
+
+### 岗位：类目运营实习生 地点：蘑菇街本部	 需求 : 若干
+
+#### 岗位职责：
+
+1.负责类目日常频道的维护和管理；
+
+2.负责类目营销活动的策划以及落地执行；
+
+3.根据实时热点和频道特点，及时策划相应活动，并快速落地；
+
+4.通过数据化分析，能够对类目的运营工作提出切实有效的建议，并积极推进完成；
+
+#### 任职资格：
+
+1.具备较好的文案功底，并富有创意和想法；
+
+2.很强的主动性和执行力，同时具备较强的沟通能力和团队协作能力；
+
+3.对电商及时尚行业感兴趣；
+
+4.积极乐观，快速的学习和抗压能力，靠谱；
+
+### 岗位：社区运营实习生 地点：蘑菇街本部	需求 : 若干
+
+#### 岗位职责：
+1、负责蘑菇街社区内容的运营，丰富社区内容，包括穿搭、美妆、母婴、美食、萌宠等；
+
+2、保持每天和用户的沟通，编辑、挖掘、筛选入驻用户的优质内容及时进行分发，增加曝光量；
+
+3、根据站内/外热点，策划和执行话题活动，引导更多KOL和用户参与发布；
+
+4、综合运用各种运营方式，跨部门协同合作，丰富时尚内容现形式；
+
+5、日常运营工作，维护话题及相关页面。
+
+#### 任职资格：
+
+1、重点本科及以上学历，2021年毕业同学优先；
+
+2、了解互联网内容热点动向，有好的审美角度和抓内容热点的能力；
+
+3、 互联网重度用户，喜欢玩社交app，有自己的理解；
+
+4、有一定文字功底，能够写出fancy好玩的文案；
+
+5、有良好的沟通能力和团队合作精神，工作细致、耐心、责任心强，能承受一定工作压力；
+
+### 岗位：战略实习生 地点：蘑菇街本部	需求 : 2
+
+#### 岗位职责：
+
+1. 与公司战略相关的行业研究工作，包括信息搜集、分析研究、产出策略、输出报告等；
+
+2. 用SQL进行业务数据分析，协助制定公司业务决策；
+
+3. 协助公司投资人关系工作的相关事宜。
+
+#### 任职资格：
+
+1、具备SQL基础，有互联网业务分析经验者优先；
+
+2、熟悉财务知识，会看财报，具备创投、咨询、行研等相关经验优先； 
+
+3、精通PPT、Excel；
+
+4、英文听说读写流利；
+
+5、能保证每周四天以上onsite，持续四个月以上（表现优异有留用机会）。	
+
+### 岗位：风险管理运营实习生  地点：蘑菇街本部	需求 : 若干
+
+#### 岗位职责：
+
+1.参与账号、交易、反套利等风险合规业务的客诉跟进处理； 
+
+2.在数据分析和案例调研反馈的基础上协助优化风险管理相关政策与策略；
+
+3.与业务、技术团队进行对接，协助确保风控策略在高效快速的落地实施；
+
+#### 任职资格：
+
+1.本科以上学历，经济、数学、统计、计算机、信息科学等相关专业，研究生优先考虑； 
+
+2.有风险分析、量化分析经验者优先； 
+
+3.精通至少一种数据分析工具，如SAS/R/PYTHON/Matlab等；
+
+4.优秀的团队合作意识，能在必要时承受一定的高强度工作者优先；
+
+5.能稳定出勤且持续4-6个月以上实习时间者优先；	
+
+## 社招近期机会
+
+### 蘑菇街 大数据开发
+
+#### 职位描述:
+
+1.负责大数据平台技术工作，包括需求分析、架构设计、研发、以及性能分析工作；
+
+2.负责给产品开发、实施、运维团队提供数据平台的技术保障；
+
+3.负责指导和解决开发人员在使用数据平台开发工具和运行中出现的各种问题；
+
+#### 职位要求:
+
+1.1年以上软件开发经验，精通Java开发
+
+2.对基于hadoop的大数据处理体系有认识，具备相关产品（hadoop/hive）项目应用研发经验
+
+3.熟悉分布式系统、分布式计算系统的工作机制，能熟练掌握相关核心技术的工作机理
+
+4.具有大规模数据平台，高并发大型系统，大数据等架构设计和开发经验者优先
+
+投递邮箱 : aobing@mogu.com 
 
 ### 支付宝网商银行:
 
 Java工作两年及以上的同学欢迎尝试～
 
-关于部门：
+#### 关于部门：
 
 网商银行不做过多介绍了，网上很多相关资料，跟腾讯微众对标，每年绩效都很好。
 
@@ -415,11 +579,11 @@ Java工作两年及以上的同学欢迎尝试～
 
 可以保证的是一定不是单纯搬砖，本部门在整个网商都是底层核心系统，无论是流量还是数据量都是极大的技术挑战。
 
-关于职级：
+#### 关于职级：
 
 p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人数*2，所以放出了很多hc，是进蚂蚁的好机会。
 
-关于面试：
+#### 关于面试：
 
 很多同学可能很担心投了没有面好会对以后有影响，或者投了之后面下来发现不合适，这里说明一下，我们不会马上把你简历录系统，会先进行评估并且跟你电话沟通，双方都觉得合适才会开始面试，不会一来就传简历，而且面试时间和进度我可以随时帮跟进，不存在放鸽子这种情况。
 
@@ -457,7 +621,7 @@ p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人�
 - 挑战：我们的基础领域业务遍布全世界各个角落，每个国家都会带给我们不一样的挑战和机遇，在这里我们可以重新定义电商基础领域，实现基础链路领域国家差异化；
 
 
-岗位要求：
+#### 岗位要求：
 
 - 3 年及以上使用 JAVA 开发的经验，JAVA 基础扎实，理解io、多线程、集合等基础框架，了解 JVM 原理；
 
