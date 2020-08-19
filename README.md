@@ -27,7 +27,9 @@
 ![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
 
-[后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+#### [后端面试点合集](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ) 
+
+#### [脑图在线编辑地址](https://www.processon.com/view/5e86b713e4b0bf3ebcf4e376)
 
 # 目录(善用Ctrl+F)
 
@@ -344,6 +346,8 @@
     - [简历模板(欢迎补充)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [概要设计模板](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/%E8%B5%84%E6%96%99.md)
     - [5分钟白嫖敖丙常用的免费效率软件/工具！](https://mp.weixin.qq.com/s/2_hM5Z9IMLIRQ2QEPTABcQ)
+
+所有文章pdf版本 : 链接:https://pan.baidu.com/s/1PKO0LDspwJPNqT6qwqNorQ  密码:f654
 
 技术交流群：添加我微信  Aobingcool  备注【加群】即可
 
