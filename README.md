@@ -58,6 +58,8 @@
   - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
   - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
   - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
+  - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
+  - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
@@ -96,6 +98,7 @@
   - 线程同步与互斥
   - 线程池知识点
   - 常见的JUC工具类
+  - [2w字 + 40张图带你参透并发编程！](https://mp.weixin.qq.com/s/NZAJWBiFvGzCZXjr0KC9Dw)
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
   - [如果你这样回答“什么是线程安全”，面试官都会对你刮目相看（建议珍藏）](https://mp.weixin.qq.com/s/WDeewsvWUEBIuabvVVhweA)
@@ -140,6 +143,9 @@
   - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
   - [敖丙RPC的超时设置，一不小心搞了线上事故](https://mp.weixin.qq.com/s/pkWkD1VhMxhZPRrybLcQjA)
   - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
+  - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
+  - [Dubbo的服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
+  - [Dubbo的SPI机制是啥？](https://mp.weixin.qq.com/s/gwWOsdQGEN0t2GJVMQQexw)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
@@ -182,6 +188,7 @@
   - [RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
   - [面试题：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？](https://mp.weixin.qq.com/s/1r1x-Irbatvzdc90haaecA)
   - [面试官：你对Kafka比较熟？ 那说说kafka日志段如何读写的吧？](https://mp.weixin.qq.com/s/68XX9qnEvDTCOw8gYLNBxQ)
+  - [师兄大厂面试遇到面试官的 Kafka 暴击三连问，快面哭了！](https://mp.weixin.qq.com/s/ejZBAGI7qLE_QYSe-AqipA)
   
 - 数据库
 
@@ -231,6 +238,7 @@
   - 互联网架构之路
   - 怎么设计一个能顶住双十一的系统？
   - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
+  - [分布式事务](https://mp.weixin.qq.com/s/XknegP66mnYboiBx556Kzw)
 
 - 互联网前沿技术
 
@@ -250,6 +258,7 @@
   
 - 研发规范
 
+  - [为什么阿里巴巴禁止使用Apache Beanutils进行属性的copy？](https://mp.weixin.qq.com/s/3XX-Lu1KrKEc3IfB9Iqz5A)
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
@@ -286,6 +295,8 @@
   
 - 程序人生系列
 
+  - [敖丙第一次见到一个亿...](https://mp.weixin.qq.com/s/KB7Gkdu4S13mQnlHGAUHfQ)
+  - [我第一次相亲就被大三岁的姐姐看上](https://mp.weixin.qq.com/s/bM7xtVDwAA82d42UrhEx2g)
   - [入职一周年，我眼中的蘑菇街](https://mp.weixin.qq.com/s/LjFfDwT62usphaock5pU8Q)
   - [鲜衣怒马少年时，一日看尽长安花](https://mp.weixin.qq.com/s/oY3CxB2Dk82mBs4W77Zrcw)  
   - [24岁我全款买了人生的第一辆车](https://mp.weixin.qq.com/s/aK6ASJO6G1q4mY3TUShCqQ)
@@ -334,8 +345,9 @@
   - [昂，我24岁了](https://mp.weixin.qq.com/s/_HCBjYI9bcNy-zBHu58l7g)
   
 - **福利**
-
+    
     - [Java/后端学习路线](https://mp.weixin.qq.com/s/5QpuDtXAalR-pz59B5t27g)
+    - [Java/后端学习路线 2.0优化版本](https://mp.weixin.qq.com/s/QrRVMp6z7HjZA4trsga_cg)
     - [整理的书单(附个人喜欢的文学书)](https://mp.weixin.qq.com/s/Wod2cGjGkGeB0iLVAqpksQ)
     - [敖丙大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://mp.weixin.qq.com/s/7NS452k5hVPW0dUQ-oTi-A)
     - [整理好用的工具集](https://mp.weixin.qq.com/s/WYiXHVJ-p1sZAf4jb5gIXg)
@@ -408,142 +420,34 @@
 
 阿里巴巴投递邮箱 : xichao.jy@alibaba-inc.com           
 
-字节/腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
+腾讯/蘑菇街/其他岗位 : aobing@mogu.com 
 
+字节 : tarch-hr@bytedance.com 
 
-## 蘑菇街实习岗位
+### 文案助理
 
-### 岗位： 搭配购实习生  地点：蘑菇街本部	  需求:若干
+跟敖丙一起干活 杭州的最好周末可以一起咖啡厅管饭
 
-#### 岗位职责：
+#### 岗位要求（兼职不需要全职）
 
-1、负责搭配购的内容生产，包含选品搭配拍摄、选图及搭配图制作。
+1. 有原创文章撰写经验，2000字及以上，互联网类优先（java相关技术栈最好）；
+2. 有1-3年微信公众号运营经验优先；
+3. 本科学历及以上，新闻学/中文系/计算机等相关专业优先；
+4. 对互联网领域感兴趣并有所了解
 
-2、及时跟进搭配的数据，做出调整，提高频道的产出。
+如果以上要求你都不符合，但是你对自己有自信，也可以尝试
 
-#### 任职资格：
+#### 岗位描述
 
-1、有良好的时尚审美，喜欢穿搭，有自己的穿搭内容输出则更佳。
+1. 参与泛科技/互联网/java类微信公众号运营；
+2. 筛选选题，撰写大纲，并撰写原创稿件。
 
-2、学习能力强，善于沟通，有工作责任心。
+#### 福利
 
-3、具有基础拍照及Photoshop经验，擅长则更佳。	　
+1. 兼职满一年，全资带飞旅游；
+2. 会根据数据给奖励（无上限）
 
-
-### 岗位：频道运营实习生  地点：蘑菇街本部	  需求 : 1
-
-#### 岗位职责：
-
-1.依托于蘑菇街商城的海量商品和营销工具，根据市场及用户需求，独立制定营销方案、推进实施，并针对营销活动做销售分析;
-
-2.具有选款比价能力，负责蘑菇街商城日常上新商品的评估和比对;
-
-3.了解用户需求，掌握蘑菇街用户的购物喜好;
-
-4.对推荐商品的gmv、收入以及客诉率负责。
-
-#### 任职资格：
-
-1.本科及以上学历，电子商务专业优先；
-
-2.良好的理解、语言表达和沟通协调能力，以及较强的服务意识；
-
-3.具备数据整理、分析能力和总结能力，可以对营销进行分析总结并出具报告；
-
-4.具备一定的审美创意，精通使用photoshop等相关软件；
-
-5.抗压能力强，具有强的学习能力、责任心和团队合作精神。	　
-
-### 岗位：类目运营实习生 地点：蘑菇街本部	 需求 : 若干
-
-#### 岗位职责：
-
-1.负责类目日常频道的维护和管理；
-
-2.负责类目营销活动的策划以及落地执行；
-
-3.根据实时热点和频道特点，及时策划相应活动，并快速落地；
-
-4.通过数据化分析，能够对类目的运营工作提出切实有效的建议，并积极推进完成；
-
-#### 任职资格：
-
-1.具备较好的文案功底，并富有创意和想法；
-
-2.很强的主动性和执行力，同时具备较强的沟通能力和团队协作能力；
-
-3.对电商及时尚行业感兴趣；
-
-4.积极乐观，快速的学习和抗压能力，靠谱；
-
-### 岗位：社区运营实习生 地点：蘑菇街本部	需求 : 若干
-
-#### 岗位职责：
-1、负责蘑菇街社区内容的运营，丰富社区内容，包括穿搭、美妆、母婴、美食、萌宠等；
-
-2、保持每天和用户的沟通，编辑、挖掘、筛选入驻用户的优质内容及时进行分发，增加曝光量；
-
-3、根据站内/外热点，策划和执行话题活动，引导更多KOL和用户参与发布；
-
-4、综合运用各种运营方式，跨部门协同合作，丰富时尚内容现形式；
-
-5、日常运营工作，维护话题及相关页面。
-
-#### 任职资格：
-
-1、重点本科及以上学历，2021年毕业同学优先；
-
-2、了解互联网内容热点动向，有好的审美角度和抓内容热点的能力；
-
-3、 互联网重度用户，喜欢玩社交app，有自己的理解；
-
-4、有一定文字功底，能够写出fancy好玩的文案；
-
-5、有良好的沟通能力和团队合作精神，工作细致、耐心、责任心强，能承受一定工作压力；
-
-### 岗位：战略实习生 地点：蘑菇街本部	需求 : 2
-
-#### 岗位职责：
-
-1. 与公司战略相关的行业研究工作，包括信息搜集、分析研究、产出策略、输出报告等；
-
-2. 用SQL进行业务数据分析，协助制定公司业务决策；
-
-3. 协助公司投资人关系工作的相关事宜。
-
-#### 任职资格：
-
-1、具备SQL基础，有互联网业务分析经验者优先；
-
-2、熟悉财务知识，会看财报，具备创投、咨询、行研等相关经验优先； 
-
-3、精通PPT、Excel；
-
-4、英文听说读写流利；
-
-5、能保证每周四天以上onsite，持续四个月以上（表现优异有留用机会）。	
-
-### 岗位：风险管理运营实习生  地点：蘑菇街本部	需求 : 若干
-
-#### 岗位职责：
-
-1.参与账号、交易、反套利等风险合规业务的客诉跟进处理； 
-
-2.在数据分析和案例调研反馈的基础上协助优化风险管理相关政策与策略；
-
-3.与业务、技术团队进行对接，协助确保风控策略在高效快速的落地实施；
-
-#### 任职资格：
-
-1.本科以上学历，经济、数学、统计、计算机、信息科学等相关专业，研究生优先考虑； 
-
-2.有风险分析、量化分析经验者优先； 
-
-3.精通至少一种数据分析工具，如SAS/R/PYTHON/Matlab等；
-
-4.优秀的团队合作意识，能在必要时承受一定的高强度工作者优先；
-
-5.能稳定出勤且持续4-6个月以上实习时间者优先；	
+联系 : aobing@mogu.com 
 
 ## 社招近期机会
 
