@@ -60,9 +60,12 @@
   - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
   - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
   - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
+  - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s/LUtk6u_zv0w8g8GIGWEuCw)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
+  - [零拷贝](https://mp.weixin.qq.com/s/FgBCop2zFfcX5ZszE0NoCQ)
+  - [从String中移除空白字符的多种方式！？差别竟然这么大！](https://mp.weixin.qq.com/s/Du2huBEkI7IR3noPeK_67g)
   - Java必会基础与新版本特性
   
 - 集合框架
@@ -98,6 +101,7 @@
   - 线程同步与互斥
   - 线程池知识点
   - 常见的JUC工具类
+  - [互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://mp.weixin.qq.com/s/6QrQ0TZVqSQq26Rms0_mvA)
   - [2w字 + 40张图带你参透并发编程！](https://mp.weixin.qq.com/s/NZAJWBiFvGzCZXjr0KC9Dw)
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
@@ -126,6 +130,7 @@
   - 从二叉搜索树到B+树
   - 经典问题之字符串
   - 经典问题之TOPK
+  - [大厂面试爱问的「调度算法」，20 张图一举拿下](https://mp.weixin.qq.com/s/B9MVq1617YgtgBtwvhVg-Q)
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   - [面试必备 | 不可不会的反转链表](https://mp.weixin.qq.com/s/_DJgsdhY4drJyEPN9xZX6Q)
   
@@ -145,6 +150,8 @@
   - [敖丙找出Dubbo源码BUG，三歪夸了我一天](https://mp.weixin.qq.com/s/_5YMfQK1tmYbmRMldBPlaQ)
   - [Dubbo基础](https://mp.weixin.qq.com/s/FPbu8rFOHyTGROIV8XJeTA)
   - [Dubbo的服务暴露过程](https://mp.weixin.qq.com/s/ISiN06QynyE2pPtX3cGQ9w)
+  - [Dubbo的服务引用过程](https://mp.weixin.qq.com/s/9oDy1OPcfDaEhKD4eNUdOA)
+  - [Dubbo服务调用过程](https://mp.weixin.qq.com/s/oNR9v_ID2oAlEvDI93hRcw)
   - [Dubbo的SPI机制是啥？](https://mp.weixin.qq.com/s/gwWOsdQGEN0t2GJVMQQexw)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
@@ -189,6 +196,7 @@
   - [面试题：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？](https://mp.weixin.qq.com/s/1r1x-Irbatvzdc90haaecA)
   - [面试官：你对Kafka比较熟？ 那说说kafka日志段如何读写的吧？](https://mp.weixin.qq.com/s/68XX9qnEvDTCOw8gYLNBxQ)
   - [师兄大厂面试遇到面试官的 Kafka 暴击三连问，快面哭了！](https://mp.weixin.qq.com/s/ejZBAGI7qLE_QYSe-AqipA)
+  - [消息队列之推还是拉，RocketMQ 和 Kafka是如何做的？](https://mp.weixin.qq.com/s/S_0YCwUtyQqeBml02jPYqg)
   
 - 数据库
 
@@ -197,6 +205,7 @@
   - 事务特性、隔离级别
   - [MySQL调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
   - 与最佳实践
+  - [MySQL索引凭什么让查询效率提高这么多？](https://mp.weixin.qq.com/s/qESZSzHoxUKQRJhb1EQA_Q)
   - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
   - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
   - [MySql主从复制，从原理到实践！](https://mp.weixin.qq.com/s/eEWMSTAUF1H-gFBx26jujw)
@@ -239,6 +248,8 @@
   - 怎么设计一个能顶住双十一的系统？
   - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
   - [分布式事务](https://mp.weixin.qq.com/s/XknegP66mnYboiBx556Kzw)
+  - [后端技术学些啥](https://mp.weixin.qq.com/s/co6ZiALBCUHxc-8SpcKxPw)
+  - [我难道天生就是个架构师？这可是100k并发啊](https://mp.weixin.qq.com/s/Pi_fHXhSf17l8q5CZ_U5UA)
 
 - 互联网前沿技术
 
@@ -249,15 +260,17 @@
   - [简历怎么写?](https://mp.weixin.qq.com/s/0pNv6pMnenKn1A9PE61VnQ)
   - [能不能好好写简历？](https://mp.weixin.qq.com/s/LxVeT49GMKu72PZJ-rDHpA)
   - [简历这样写，技术人都不直男了！](https://mp.weixin.qq.com/s/tl4DpsQPVh-bvlFzNsrzvw)
+  - [10个简历小技巧，成为面试战神](https://mp.weixin.qq.com/s/NyJ2gLDLIomlgkIFYWVvJg)
   - 语言组织
   - 加分项
   - 扬长避短
   - [自我介绍](https://mp.weixin.qq.com/s/br7Ak88kA5GkZ26hxwKUiw)
   - [互联网公司面试流程 注意事项 加分点 防骗指南](https://mp.weixin.qq.com/s/jhmpG2bBb4aXoUJzahC0Rg)
   - [互联网公司面试流程&加分点，别跟敖丙一样被无良HR坑了](https://mp.weixin.qq.com/s/7Rq8QR58Adi5WGHRlnhDeQ)
+  - [面试官喜欢怎样的人](https://mp.weixin.qq.com/s/2mdcZnlTWCDYejGkZCdNOQ)
   
 - 研发规范
-
+    
   - [为什么阿里巴巴禁止使用Apache Beanutils进行属性的copy？](https://mp.weixin.qq.com/s/3XX-Lu1KrKEc3IfB9Iqz5A)
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
@@ -265,7 +278,8 @@
   - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
   
 - 面试真题&面经分享
-
+  
+  - [怎么面国企或银行？](https://mp.weixin.qq.com/s/d4OewL8-gCm_IkqDqufvsQ)
   - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
   - [一位读者小姐姐的阿里面经分享，快被问哭了！（附部分问题详解）](https://mp.weixin.qq.com/s/jnegDdp4OMSKynZl8OBIpw) 
   - [小姐姐面试蚂蚁金服被虐经历，心疼...](https://mp.weixin.qq.com/s/nzvg3e-RgM59zs9WSeUpLg)
@@ -298,6 +312,11 @@
   - [敖丙第一次见到一个亿...](https://mp.weixin.qq.com/s/KB7Gkdu4S13mQnlHGAUHfQ)
   - [我第一次相亲就被大三岁的姐姐看上](https://mp.weixin.qq.com/s/bM7xtVDwAA82d42UrhEx2g)
   - [入职一周年，我眼中的蘑菇街](https://mp.weixin.qq.com/s/LjFfDwT62usphaock5pU8Q)
+  - [在美女如云的蘑菇街工作是怎样的体验？](https://mp.weixin.qq.com/s/_zK6ovSynkcmZ-iwzFHHMA)
+  - [敖丙迟早被你们气死](https://mp.weixin.qq.com/s/KeIJDrHbMH_BRUKLnCqExw)
+  - [我对外包的看法](https://mp.weixin.qq.com/s/lC6F1HVmAGQzXsFbpZz9Qw)
+  - [朋友被裁员之后的工行、华为外包工作经历分享](https://mp.weixin.qq.com/s/cMZN_T7Ar1skWyyx8iHI5g)
+  - [和华为的一位学长聊了很久，优秀的人果然都有过人之处](https://mp.weixin.qq.com/s/Bg0Qejvxd6nQMuG4gXFzLw)
   - [鲜衣怒马少年时，一日看尽长安花](https://mp.weixin.qq.com/s/oY3CxB2Dk82mBs4W77Zrcw)  
   - [24岁我全款买了人生的第一辆车](https://mp.weixin.qq.com/s/aK6ASJO6G1q4mY3TUShCqQ)
   - [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
@@ -404,11 +423,9 @@
   </a>
 </p>
 
-**已结束** 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
+活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
 买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://dashi.aliyun.com/site/aobing/ali)
-
-
 
 
 
@@ -424,30 +441,7 @@
 
 字节 : tarch-hr@bytedance.com 
 
-### 文案助理
 
-跟敖丙一起干活 杭州的最好周末可以一起咖啡厅管饭
-
-#### 岗位要求（兼职不需要全职）
-
-1. 有原创文章撰写经验，2000字及以上，互联网类优先（java相关技术栈最好）；
-2. 有1-3年微信公众号运营经验优先；
-3. 本科学历及以上，新闻学/中文系/计算机等相关专业优先；
-4. 对互联网领域感兴趣并有所了解
-
-如果以上要求你都不符合，但是你对自己有自信，也可以尝试
-
-#### 岗位描述
-
-1. 参与泛科技/互联网/java类微信公众号运营；
-2. 筛选选题，撰写大纲，并撰写原创稿件。
-
-#### 福利
-
-1. 兼职满一年，全资带飞旅游；
-2. 会根据数据给奖励（无上限）
-
-联系 : aobing@mogu.com 
 
 ## 社招近期机会
 
