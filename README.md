@@ -61,6 +61,7 @@
   - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
   - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
   - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s/LUtk6u_zv0w8g8GIGWEuCw)
+  - [「网络IO套路」当时就靠它追到女友](https://mp.weixin.qq.com/s/x-AZQO5uiuu5svIvScotzA)
   - 计算机网络
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
@@ -153,6 +154,8 @@
   - [Dubbo的服务引用过程](https://mp.weixin.qq.com/s/9oDy1OPcfDaEhKD4eNUdOA)
   - [Dubbo服务调用过程](https://mp.weixin.qq.com/s/oNR9v_ID2oAlEvDI93hRcw)
   - [Dubbo的SPI机制是啥？](https://mp.weixin.qq.com/s/gwWOsdQGEN0t2GJVMQQexw)
+  - [Dubbo集群容错负载均衡](https://mp.weixin.qq.com/s/-IkHNAM4B0R_j50LkQunig)
+  - [Dubbo面试题](https://mp.weixin.qq.com/s/FwL6qArqYc2ENymXk1eZFQ)
   - ORM框架Mybatis源码分析
   - [20000 字的 Spring Cloud 总结](https://mp.weixin.qq.com/s/pGSx8eKFH3YnUos3SM2ITw)
   - [什么是Zookeeper](https://mp.weixin.qq.com/s/gphDLJMO3QcRoN3zkco4EA)
@@ -204,7 +207,7 @@
   - 索引、锁机制
   - 事务特性、隔离级别
   - [MySQL调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
-  - 与最佳实践
+  - [国庆肝了8天整整2W字的数据库知识点](https://mp.weixin.qq.com/s/J3kCOJwyv2nzvI0_X0tlnA)
   - [MySQL索引凭什么让查询效率提高这么多？](https://mp.weixin.qq.com/s/qESZSzHoxUKQRJhb1EQA_Q)
   - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
   - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
@@ -216,6 +219,7 @@
   - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
   - [用对了这些场景下的索引，技术总监夸我棒](https://mp.weixin.qq.com/s/-gmAPfiKMNJgHhIZqR2C4A)
   - [MVCC和事务隔离级别的关系](https://mp.weixin.qq.com/s/0-YEqTMd0OaIhW99WqavgQ)
+  - [MySQL事务与MVCC如何实现的隔离级别](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
   - [我说 SELECT COUNT(*) 会造成全表扫描，面试官让我回去等通知](https://mp.weixin.qq.com/s/SNRvdmyS57oWS_CyYKVvSA)
   
 - 大数据
@@ -275,10 +279,13 @@
   - [为什么阿里巴巴禁止开发人员使用isSuccess作为变量名？](https://mp.weixin.qq.com/s/xvTCaBXkRc7e6dGCUJxRPQ)
   - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
+  - [为什么阿里巴巴禁止使用BigDecimal的equals方法做等值比较？](https://mp.weixin.qq.com/s/JduY7OAeywOlVLbLiX3Xnw)
   - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
   
 - 面试真题&面经分享
   
+  - [「面经」不小心拿到了B站意向书](https://mp.weixin.qq.com/s/VOVUQ2cbYX5UXrrWLIHFXQ)
+  - [朋友怎样刚拿饿了么P7 offer，然后途虎一轮游的](https://mp.weixin.qq.com/s/e6MpOuxeZ53fAatNBhiC9A)
   - [怎么面国企或银行？](https://mp.weixin.qq.com/s/d4OewL8-gCm_IkqDqufvsQ)
   - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
   - [一位读者小姐姐的阿里面经分享，快被问哭了！（附部分问题详解）](https://mp.weixin.qq.com/s/jnegDdp4OMSKynZl8OBIpw) 
@@ -308,7 +315,8 @@
   - [敖丙读者一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸阿里云 ！](https://mp.weixin.qq.com/s/F2TiFw-LYFXMRj_hsD-TIw)
   
 - 程序人生系列
-
+  
+  - [华为现场和百万粉博主线下面基，敖丙c位出道](https://mp.weixin.qq.com/s/SBnev4kAzsqpA9l-unt4dw)
   - [敖丙第一次见到一个亿...](https://mp.weixin.qq.com/s/KB7Gkdu4S13mQnlHGAUHfQ)
   - [我第一次相亲就被大三岁的姐姐看上](https://mp.weixin.qq.com/s/bM7xtVDwAA82d42UrhEx2g)
   - [入职一周年，我眼中的蘑菇街](https://mp.weixin.qq.com/s/LjFfDwT62usphaock5pU8Q)
