@@ -415,25 +415,25 @@
 
 
 <p align="center">
-  <a href="https://activity.huaweicloud.com/discount_area_v5/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682">
+  <a href="https://activity.huaweicloud.com/1111_promotion/index.html?fromacct=662497fd-8600-411b-9afd-ee2e218560a5&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905">
   <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi1pc65nj306q02aglm.jpg">
   </a>
 </p>
 
 云耀云服务器，88元一年起
 
-注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/2020_618_promotion/index.html?bpName=5f9f98a29e2c40b780c1793086f29fe2&bindType=1&salesID=AB071682)
+注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/1111_promotion/index.html?fromacct=662497fd-8600-411b-9afd-ee2e218560a5&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905)
 
 
 <p align="center">
-  <a href="https://dashi.aliyun.com/site/aobing/ali">
+  <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link">
   <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
   </a>
 </p>
 
 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
-买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://dashi.aliyun.com/site/aobing/ali)
+买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
 
 
 
