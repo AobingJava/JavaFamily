@@ -426,14 +426,14 @@
 
 
 <p align="center">
-  <a href="https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link">
+  <a href="http://suo.im/6egWv4">
   <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
   </a>
 </p>
 
 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
-买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](https://www.aliyun.com/minisite/goods?userCode=tybhsgp5&share_source=copy_link)
+买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](http://suo.im/6egWv4)
 
 
 
