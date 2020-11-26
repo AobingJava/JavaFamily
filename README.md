@@ -38,11 +38,15 @@
 - Java基础核心串讲
 
   - 计算机操作系统与Linux
+  - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
+  - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
+  - [一文领略 HTTP 的前世今生](https://mp.weixin.qq.com/s/ljtDM1d2KgtxAAhwUFSHkg)
   - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
   - [实战！敖丙用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/jTDU-zxP1INTYLpGLypjXQ)
   - [面试官：换人！他连 TCP 这几个参数都不懂](https://mp.weixin.qq.com/s/ytV7RZSyFXyvPW_lKhv8hw)
+  - [TCP/IP 基础知识总结](https://mp.weixin.qq.com/s/lkX2Mb2aCj8ugOaRmVVBqw)
   - [TCP 半连接队列和全连接队列满了会发生什么？又该如何应对？](https://mp.weixin.qq.com/s/tRXlq1hErqKQLMMLcxoXvg)
   - [跟着动画学习TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/NL7Jzh0lYoA395yzaGxBHw)
   - [敖丙用近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题](https://mp.weixin.qq.com/s/rX3A_FA19n4pI9HicIEsXg)
@@ -62,7 +66,8 @@
   - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
   - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s/LUtk6u_zv0w8g8GIGWEuCw)
   - [「网络IO套路」当时就靠它追到女友](https://mp.weixin.qq.com/s/x-AZQO5uiuu5svIvScotzA)
-  - 计算机网络
+  - [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
+  - [计算机网络](https://mp.weixin.qq.com/s/WfcozFAdXbOJ0EIcZEfLVg)
   - 7种常见的设计模式和使用场景
   - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
   - [零拷贝](https://mp.weixin.qq.com/s/FgBCop2zFfcX5ZszE0NoCQ)
@@ -91,6 +96,7 @@
   - [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
   - [Java堆内存是线程共享的！面试官：你确定吗？](https://mp.weixin.qq.com/s/Wws24Fhg1nH4dHvtcFYi2g)
   - [线上服务的FGC问题排查，看这篇就够了！](https://mp.weixin.qq.com/s/P8s3kuceBNovUP5adXpFCQ)
+  - [记一次大促期间JVM堆外内存泄漏故障排查记录](https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA)
   - 性能调优、线上问题排查
   - 类加载机制详解
   - 垃圾回收机制
@@ -114,6 +120,7 @@
   - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
   - [Java面试必问：ThreadLocal](https://mp.weixin.qq.com/s/LzkZXPtLW2dqPoz3kh3pBQ)
   - [记一次线程池引发的故障 排查下来是三歪的锅](https://mp.weixin.qq.com/s/TQGtNpPiTypeKd5kUnfxEw)
+  - [1.5w字，30图带你彻底掌握 AQS！](https://mp.weixin.qq.com/s/iNz6sTen2CSOdLE0j7qu9A)
   
 - 常用工具集
 
@@ -122,6 +129,7 @@
   - 线上调试神器-btrace
   - Git原理与工作流
   - Linux常用分析工具
+  - [垃圾回收底层原理](https://mp.weixin.qq.com/s/nY6vL5MlUXY1lfnIvNHMnw)
   - [怎么排查堆内存溢出啊？](https://mp.weixin.qq.com/s/7XGD-Z3wrThv5HyoK3B8AQ)
   - [CPU100%，排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
   - [排查YGC问题](https://mp.weixin.qq.com/s/LRx9tLtx1tficWPvUWUTuQ)
@@ -134,6 +142,7 @@
   - [大厂面试爱问的「调度算法」，20 张图一举拿下](https://mp.weixin.qq.com/s/B9MVq1617YgtgBtwvhVg-Q)
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   - [面试必备 | 不可不会的反转链表](https://mp.weixin.qq.com/s/_DJgsdhY4drJyEPN9xZX6Q)
+  - [红黑树【图解】](https://mp.weixin.qq.com/s/sPIE54UmvNgINZIATQKyew)
   
 - 必会框架
 
@@ -144,6 +153,7 @@
   - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
   - [敖丙说精通字符串，面试官竟然问Java中的String有没有长度限制！](https://mp.weixin.qq.com/s/6YhpbuhdTX9BM_OimoW8MA)
   - [Spring中的循环依赖](https://mp.weixin.qq.com/s/kS0K5P4FdF3v-fiIjGIvvQ)
+  - [Spring容器启动流程](https://mp.weixin.qq.com/s/ut3mRwhfqXNjrBtTmI0oWg)
   - 高性能NIO框架-Netty
   - 分布式框架基石-RPC
   - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
@@ -206,6 +216,7 @@
   - MySQL
   - 索引、锁机制
   - 事务特性、隔离级别
+  - [你怎么连模糊匹配like %%怎么优化都不知道](https://mp.weixin.qq.com/s/ygvuP35B_sJAlBHuuEJhfg)
   - [MySQL调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
   - [国庆肝了8天整整2W字的数据库知识点](https://mp.weixin.qq.com/s/J3kCOJwyv2nzvI0_X0tlnA)
   - [MySQL索引凭什么让查询效率提高这么多？](https://mp.weixin.qq.com/s/qESZSzHoxUKQRJhb1EQA_Q)
@@ -221,6 +232,11 @@
   - [MVCC和事务隔离级别的关系](https://mp.weixin.qq.com/s/0-YEqTMd0OaIhW99WqavgQ)
   - [MySQL事务与MVCC如何实现的隔离级别](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
   - [我说 SELECT COUNT(*) 会造成全表扫描，面试官让我回去等通知](https://mp.weixin.qq.com/s/SNRvdmyS57oWS_CyYKVvSA)
+  - [阿里面试：说说一致性读实现原理？](https://mp.weixin.qq.com/s/qHzb6oPrrbAPoIlfLJVNAg)
+  - [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/7dpNkLaglIyb_9DKdH43eQ)
+  - [工作以来总结的大厂SQL调优姿势](https://mp.weixin.qq.com/s/nEmN4S9JOTVGj5IHyfNtCw)
+  - [为啥阿里巴巴不建议MySQL使用Text类型？](https://mp.weixin.qq.com/s/oVjm_iLvbkximBjHv9d8ig)
+  - [一口气搞懂MySQL索引所有知识点](https://mp.weixin.qq.com/s/faOaXRQM8p0kwseSHaMCbg)
   
 - 大数据
 
@@ -250,8 +266,11 @@
   - 从All in one 到微服务
   - 互联网架构之路
   - 怎么设计一个能顶住双十一的系统？
+  - [压测都做些什么?](https://mp.weixin.qq.com/s/RzJkQuMAszkC8jw8hF-k1w)
+  - [千万级、亿级流量怎么处理？](https://mp.weixin.qq.com/s/CxqnaB9cUemvCcWkw2nUcw)
   - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
   - [分布式事务](https://mp.weixin.qq.com/s/XknegP66mnYboiBx556Kzw)
+  - [1.4 w字，25 张图让你彻底掌握分布式事务原理](https://mp.weixin.qq.com/s/ujRRtdLOeKEHsHrtDRNXGA)
   - [后端技术学些啥](https://mp.weixin.qq.com/s/co6ZiALBCUHxc-8SpcKxPw)
   - [我难道天生就是个架构师？这可是100k并发啊](https://mp.weixin.qq.com/s/Pi_fHXhSf17l8q5CZ_U5UA)
 
@@ -281,10 +300,15 @@
   - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
   - [为什么阿里巴巴禁止使用BigDecimal的equals方法做等值比较？](https://mp.weixin.qq.com/s/JduY7OAeywOlVLbLiX3Xnw)
   - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
+  - [大厂是如何设计接口的？](https://mp.weixin.qq.com/s/ROMzeipOwWZWNrVGdVwisg)
   
 - 面试真题&面经分享
   
+  - [美团面经](https://mp.weixin.qq.com/s/gSG_ZzZN7Ek2HEGtdi_Nkg)
+  - [来自朋友最近阿里、腾讯、美团等P7岗位面试题](https://mp.weixin.qq.com/s/yb6MtKMrCl2rAUZVLIfJow)
+  - [我经历的7轮Google面试](https://mp.weixin.qq.com/s/yYy5YUeA3VAAQMtnMhaFUQ)
   - [「面经」不小心拿到了B站意向书](https://mp.weixin.qq.com/s/VOVUQ2cbYX5UXrrWLIHFXQ)
+  - [小红书](https://mp.weixin.qq.com/s/3OTwlqCpJHEwtUvSQn1xmw)
   - [朋友怎样刚拿饿了么P7 offer，然后途虎一轮游的](https://mp.weixin.qq.com/s/e6MpOuxeZ53fAatNBhiC9A)
   - [怎么面国企或银行？](https://mp.weixin.qq.com/s/d4OewL8-gCm_IkqDqufvsQ)
   - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
@@ -316,6 +340,10 @@
   
 - 程序人生系列
   
+  - [从网瘾少年逆袭拿到微软 、字节等offer（上）](https://mp.weixin.qq.com/s/irjvJkIRknxasM0D1v3FOw)
+  - [从网瘾少年逆袭拿到微软 、字节等offer（下）](https://mp.weixin.qq.com/s/CTpY8oxxjdvleTotjrpAsA)
+  - [我新浪学妹的北京日常](https://mp.weixin.qq.com/s/oSKKUOG-JO0PLMun13gi0A)
+  - [2020个人经历](https://mp.weixin.qq.com/s/H88XxwF3GCwc_cL4rGKu8g)
   - [华为现场和百万粉博主线下面基，敖丙c位出道](https://mp.weixin.qq.com/s/SBnev4kAzsqpA9l-unt4dw)
   - [敖丙第一次见到一个亿...](https://mp.weixin.qq.com/s/KB7Gkdu4S13mQnlHGAUHfQ)
   - [我第一次相亲就被大三岁的姐姐看上](https://mp.weixin.qq.com/s/bM7xtVDwAA82d42UrhEx2g)
@@ -422,7 +450,7 @@
 
 云耀云服务器，88元一年起
 
-注意，不是突发型只有20%性能，也不是共享型，完全独享。[**【点击购买】**](https://activity.huaweicloud.com/1111_promotion/index.html?fromacct=662497fd-8600-411b-9afd-ee2e218560a5&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905)
+华为云  [**【点击购买】**](https://activity.huaweicloud.com/1111_promotion/index.html?fromacct=662497fd-8600-411b-9afd-ee2e218560a5&utm_source=V1g3MDY4NTY=&utm_medium=cps&utm_campaign=201905)
 
 
 <p align="center">
@@ -433,10 +461,16 @@
 
 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
-买了搭建个项目，熟悉技术栈比较香**推荐买三年的划算点**[**【点击购买】**](http://suo.im/6egWv4)
+阿里云 [**【点击购买】**](http://suo.im/6egWv4)
 
 
+<p align="center">
+  <a href="https://partners.cloud.tencent.com/invitation/1000144091425ee1dbcbc6093/100016776501">
+  <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl0drrm2cjj308c02zglg.jpg"/>
+  </a>
+</p>
 
+腾讯云 [**【点击购买】**](https://partners.cloud.tencent.com/invitation/1000144091425ee1dbcbc6093/100016776501)
 
 
 # 岗位内推
