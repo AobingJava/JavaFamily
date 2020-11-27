@@ -583,12 +583,6 @@ p6-p8都有hc，真实hc不刷kpi，目前网商银行业务扩张，目标人�
 
 有意请发简历到 fightingcrap@gmail.com
 
-# 赞赏码
-
-熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡(不接受学生赞赏)。
-<p align="center">
-    <img src="https://tva1.sinaimg.cn/large/00831rSTly1gd2qbdv1jnj30u00u0jzq.jpg" width="450px">
-</p>
 
 
 # 鸣谢列表
