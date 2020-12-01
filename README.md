@@ -454,15 +454,16 @@
 
 
 <p align="center">
-  <a href="http://suo.im/6egWv4">
+  <a href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=tybhsgp5">
   <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
   </a>
 </p>
 
 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
-阿里云 [**【点击购买】**](http://suo.im/6egWv4)
+阿里云 [**【点击购买】**](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=tybhsgp5)
 
+云直播[点击](https://yqh.aliyun.com/live?taskCode=yqh1201&recordId=283560&userCode=tybhsgp5) [部署](https://workbench.aliyun.com/activities/k8s?taskCode=workbenchk8s&recordId=283555&userCode=tybhsgp5)
 
 <p align="center">
   <a href="https://partners.cloud.tencent.com/invitation/1000144091425ee1dbcbc6093/100016776501">
