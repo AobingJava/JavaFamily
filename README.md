@@ -40,7 +40,9 @@
   - 计算机操作系统与Linux
   - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
   - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
+  - [大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
   - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+  - [带宽、延时、吞吐率、PPS 这些都是啥？](https://mp.weixin.qq.com/s/eWHQ8co0jF_a26Xz8ZQLjg)
   - [图解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)
   - [一文领略 HTTP 的前世今生](https://mp.weixin.qq.com/s/ljtDM1d2KgtxAAhwUFSHkg)
   - [面试 HTTP ，99% 的面试官都爱问这些问题](https://mp.weixin.qq.com/s/t7ZYT6wBBbFYVBPOSztpRg)
@@ -62,6 +64,7 @@
   - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
   - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
   - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
+  - [进程之间究竟有哪些通信方式？](https://mp.weixin.qq.com/s/CGqy0j5WvarN6mTmYB8vSA)
   - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
   - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
   - [万字长文 | 23 个问题 TCP 疑难杂症全解析](https://mp.weixin.qq.com/s/LUtk6u_zv0w8g8GIGWEuCw)
@@ -139,6 +142,7 @@
   - 从二叉搜索树到B+树
   - 经典问题之字符串
   - 经典问题之TOPK
+  - [最大公共子串](https://mp.weixin.qq.com/s/Yx3uRVGFYikx8gm-oi-0vg)
   - [大厂面试爱问的「调度算法」，20 张图一举拿下](https://mp.weixin.qq.com/s/B9MVq1617YgtgBtwvhVg-Q)
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   - [面试必备 | 不可不会的反转链表](https://mp.weixin.qq.com/s/_DJgsdhY4drJyEPN9xZX6Q)
@@ -154,7 +158,7 @@
   - [敖丙说精通字符串，面试官竟然问Java中的String有没有长度限制！](https://mp.weixin.qq.com/s/6YhpbuhdTX9BM_OimoW8MA)
   - [Spring中的循环依赖](https://mp.weixin.qq.com/s/kS0K5P4FdF3v-fiIjGIvvQ)
   - [Spring容器启动流程](https://mp.weixin.qq.com/s/ut3mRwhfqXNjrBtTmI0oWg)
-  - 高性能NIO框架-Netty
+  - [高性能NIO框架-Netty](https://mp.weixin.qq.com/s/I9PGsWo7-ykGf2diKklGtA)
   - 分布式框架基石-RPC
   - [Netty常见面试题总结](https://mp.weixin.qq.com/s/eJ-dAtOYsxylGL7pBv7VVA)
   - [敖丙RPC的超时设置，一不小心搞了线上事故](https://mp.weixin.qq.com/s/pkWkD1VhMxhZPRrybLcQjA)
@@ -181,6 +185,7 @@
   - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
   - [集群高可用、哨兵、持久化、LRU](https://mp.weixin.qq.com/s/EjDeypra_d9Tfsn-WkJZdw)
   - [分布式锁、并发竞争、双写一致性](https://mp.weixin.qq.com/s/2hTgP3MRTVDxmmoUFhOaGw)
+  - [缓存一致性问题怎么解决？](https://mp.weixin.qq.com/s/dYvM8_6SQnYRB6KjPsprbw)
   - [Redis常见面试题](https://mp.weixin.qq.com/s/R1TJMo2IbPUUMox9OAAafQ)
   - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
   - [秒杀系统设计](https://mp.weixin.qq.com/s/z2S1EjWQDwKm5Ud36IenNw)
@@ -220,13 +225,21 @@
   - [MySQL调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
   - [国庆肝了8天整整2W字的数据库知识点](https://mp.weixin.qq.com/s/J3kCOJwyv2nzvI0_X0tlnA)
   - [MySQL索引凭什么让查询效率提高这么多？](https://mp.weixin.qq.com/s/qESZSzHoxUKQRJhb1EQA_Q)
+  - [你都是如何设计索引的？](https://mp.weixin.qq.com/s/fShA7jxjshKyHEHfVDrLVA)
+  - [数据库自增ID用完了会怎么样？](https://mp.weixin.qq.com/s/qEA1pC2pfh3xz9HuM8iIBg)
+  - [MySQL大表怎么DDL变更](https://mp.weixin.qq.com/s/pinOFeF09orQCnIp4L6XyA)
+  - [innodb是如何插入数据的?](https://mp.weixin.qq.com/s/SqSPxSRslkjUcDasBHGRSQ)
   - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
   - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
   - [MySql主从复制，从原理到实践！](https://mp.weixin.qq.com/s/eEWMSTAUF1H-gFBx26jujw)
+  - [MySQL查询缓存](https://mp.weixin.qq.com/s/LZBctWNWi3qehb-dgUCmxQ)
   - [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://mp.weixin.qq.com/s/wr2gJGQSA8QH_lmPh1XOkw)
   - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
   - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
+  - [分库分表方案](https://mp.weixin.qq.com/s/dMqXBW6W8DeqfAPvko3ViQ)
+  - [MySQL安全方案](https://mp.weixin.qq.com/s/rQDitOOnLpLEoj8M11NHwg)
   - [数据库连接池到底应该设多大？这篇文章可能会颠覆你的认知](https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ)
+  - [数据库设计](https://mp.weixin.qq.com/s/yo_LJ6IwGnjiBXSA7ZHdOA)
   - [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](https://mp.weixin.qq.com/s/L0XUMHInnwN9gSYGH2nzdg)
   - [用对了这些场景下的索引，技术总监夸我棒](https://mp.weixin.qq.com/s/-gmAPfiKMNJgHhIZqR2C4A)
   - [MVCC和事务隔离级别的关系](https://mp.weixin.qq.com/s/0-YEqTMd0OaIhW99WqavgQ)
@@ -247,6 +260,7 @@
   - Hbase
   - HDFS
   - [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
+  - [Flink入门教程](https://mp.weixin.qq.com/s/xa2iGrmyoXq3FtZeU9GU-w)
   
 - 搜索引擎
 
@@ -301,11 +315,23 @@
   - [为什么阿里巴巴禁止使用BigDecimal的equals方法做等值比较？](https://mp.weixin.qq.com/s/JduY7OAeywOlVLbLiX3Xnw)
   - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
   - [大厂是如何设计接口的？](https://mp.weixin.qq.com/s/ROMzeipOwWZWNrVGdVwisg)
+  - [不要再在对外接口中使用枚举类型了！](https://mp.weixin.qq.com/s/ynYi_dMlP2Y9GnQXzQxa3Q)
+  
+- 科普
+
+ - [你知道程序是怎么处理时区问题的么？](https://mp.weixin.qq.com/s/WszidUcoV_cYeDf26EkAcA)
+ - [聊一聊理财](https://mp.weixin.qq.com/s/BMttkFZsKu0qmxSz-MqAlw)
+ 
+- 人物  
+ - [罗永浩](https://mp.weixin.qq.com/s/FUbxHFAQeUgV59Zhp7Fe0w)
   
 - 面试真题&面经分享
   
   - [美团面经](https://mp.weixin.qq.com/s/gSG_ZzZN7Ek2HEGtdi_Nkg)
   - [来自朋友最近阿里、腾讯、美团等P7岗位面试题](https://mp.weixin.qq.com/s/yb6MtKMrCl2rAUZVLIfJow)
+  - [淘宝|蚂蚁|菜鸟|盒马|嘀嘀|饿了么面经(已拿多个offer)](https://mp.weixin.qq.com/s/oEGSxv5KuNI9BsCxpdi82A)
+  - [苦修月余，斩获bigo、腾讯offer，面经奉上！](https://mp.weixin.qq.com/s/EOQafymh7xVtxblstTbQUA)
+  - [读者字节、滴滴面经（已拿offer）](https://mp.weixin.qq.com/s/sWtI7M8K1iajreEo3LtwIw)
   - [我经历的7轮Google面试](https://mp.weixin.qq.com/s/yYy5YUeA3VAAQMtnMhaFUQ)
   - [「面经」不小心拿到了B站意向书](https://mp.weixin.qq.com/s/VOVUQ2cbYX5UXrrWLIHFXQ)
   - [小红书](https://mp.weixin.qq.com/s/3OTwlqCpJHEwtUvSQn1xmw)
@@ -454,16 +480,15 @@
 
 
 <p align="center">
-  <a href="https://www.aliyun.com/minisite/goods?taskCode=pintuan20201212&recordId=292444&userCode=tybhsgp5">
+  <a href="https://dashi.aliyun.com/site/aobing/ali">
   <img src="https://tva1.sinaimg.cn/large/00831rSTly1gdfi3cmfhgj307e02k0sn.jpg">
   </a>
 </p>
 
 活动折扣价：89/年，223/3年，比学生9.9每月还便宜(只阿里云新用户可用)
 
-阿里云 [**【点击购买】**](https://www.aliyun.com/minisite/goods?taskCode=pintuan20201212&recordId=292444&userCode=tybhsgp5)
+阿里云 [**【点击购买】**](https://dashi.aliyun.com/site/aobing/ali)
 
-云直播[点击](https://yqh.aliyun.com/live?taskCode=yqh1201&recordId=283560&userCode=tybhsgp5) [部署](https://workbench.aliyun.com/activities/k8s?taskCode=workbenchk8s&recordId=283555&userCode=tybhsgp5)
 
 <p align="center">
   <a href="https://partners.cloud.tencent.com/invitation/1000144091425ee1dbcbc6093/100016776501">
