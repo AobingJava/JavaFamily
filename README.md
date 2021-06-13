@@ -75,6 +75,7 @@
     - [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
     - [敖丙说了这么多次 I/O，可你知道其中的原理么？](https://mp.weixin.qq.com/s/TJghsMRqkzBIsoHjGiEwFw)
     - [迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://mp.weixin.qq.com/s/EVequWGVMWV5Ki2llFzdHg)
+    - [原来 8 张图，就能学废 Reactor 和 Proactor](https://mp.weixin.qq.com/s/px6-YnPEUCEqYIp_YHhDzg)
   - 计算机网络  
     - [计算机网络](https://mp.weixin.qq.com/s/WfcozFAdXbOJ0EIcZEfLVg)
     
@@ -105,8 +106,14 @@
   - 7种常见的设计模式和使用场景
   
     - [设计模式系列 - 单例模式](https://mp.weixin.qq.com/s/dW0L-PoBeTFHhD29HJO0BQ)
-    
-    - [新来的"大神"用策略模式把if else给"优化"了，总监想叫他走...](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
+    - [工厂模式](https://mp.weixin.qq.com/s/j42vn-A_rdWZP3aixXB8Ag)
+    - [流程引擎](https://mp.weixin.qq.com/s/b8xa3o4fKDme2438oJTakw)
+    - [建造者模式](https://mp.weixin.qq.com/s/h7iEyxgN34FPn191S8qUpA)
+    - [原型模式](https://mp.weixin.qq.com/s/fORmbucHuPVMS2z3q-mV3A)
+    - [责任链模式](https://mp.weixin.qq.com/s/l9EdvpAMukIDOgaN7x3b4w)
+    - [观察者模式](https://mp.weixin.qq.com/s/_hVGgJxefoVXFHFNXC-U6A)
+    - [策略模式](https://mp.weixin.qq.com/s/AFbt7VJMASenD2S8KbPKJQ)
+    - [策略模式2.0](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
   
   
   - Java必会基础与新版本特性
@@ -153,6 +160,7 @@
     - [怎么排查堆内存溢出啊？](https://mp.weixin.qq.com/s/7XGD-Z3wrThv5HyoK3B8AQ)
     - [CPU100%，排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
     - [排查YGC问题](https://mp.weixin.qq.com/s/LRx9tLtx1tficWPvUWUTuQ)
+    - [CPU飙高排查](https://mp.weixin.qq.com/s/nWghy4McYx6Ix3QPSLSmkQ)
   - 类加载机制详解
     - [JVM必问知识点:类加载过程](https://mp.weixin.qq.com/s/eHqFONXXNc-LD4ugaKM6UA)
     
@@ -190,6 +198,7 @@
     - [终于有人把 CountDownLatch，CyclicBarrier，Semaphore 说明白了!](https://mp.weixin.qq.com/s/TDw7GnzDw5FK3RWwkIzzZA)
     - [Java面试必问：ThreadLocal](https://mp.weixin.qq.com/s/LzkZXPtLW2dqPoz3kh3pBQ)
     - [StampedLock](https://mp.weixin.qq.com/s/gjfeayR36vDAr3FAVd4w4g)
+    
   - 多线程经典面试题
     - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
     
@@ -211,7 +220,7 @@
   - 经典问题之字符串
   - 经典问题之TOPK
   - [最大公共子串](https://mp.weixin.qq.com/s/Yx3uRVGFYikx8gm-oi-0vg)
-  
+  - [动态规划](https://mp.weixin.qq.com/s/1dG8Dk7nZeIGHQ0Hp8gq7Q)
   - [大厂面试爱问的「调度算法」，20 张图一举拿下](https://mp.weixin.qq.com/s/B9MVq1617YgtgBtwvhVg-Q)
   - [图解红黑树](https://mp.weixin.qq.com/s/-8JFh5iLr88XA4AJ9mMf6g)
   - [面试必备 | 不可不会的反转链表](https://mp.weixin.qq.com/s/_DJgsdhY4drJyEPN9xZX6Q)
@@ -273,6 +282,7 @@
     - [Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg) 
     - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
     - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
+    - [Redis分布式锁(全)](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
   - Redis常见线上故障及其解决方案
     - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
     - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
@@ -519,6 +529,9 @@
     - [跳槽季，应不应该跳，怎么跳？](https://mp.weixin.qq.com/s/enq_fh0hq2gMSgeXfunP6Q)
     - [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
     - [教你在服务器搭建个人面试项目](https://mp.weixin.qq.com/s/D0bxHiXJKU64SinO1mh7Mw)
+    - [程序员只能吃青春饭？30岁后出路在何方？](https://mp.weixin.qq.com/s/MvA12XM_ZzOG_7ygTmzIfA)
+    - [学历对程序员重要么？](https://mp.weixin.qq.com/s/HafYjNNoBwuau-MI6W8EnQ)
+    - [有哪些事情是你成为程序员之后才知道的？](https://mp.weixin.qq.com/s/UIbINxc-lEktnXLJhLceZQ)
 - 程序人生系列
   
   - 成长经历
@@ -544,6 +557,7 @@
     - [敖丙我参加了蘑菇街年会，流了一晚上鼻血](https://mp.weixin.qq.com/s/fkByjmdaqdw0TELDzdm5mQ)
     - [时间刺客--敖丙](https://mp.weixin.qq.com/s/wlfurOBpxeaf6iy7CtHRlA)
     - [送别了好友，敖丙跟你聊聊【离职】这个话题](https://mp.weixin.qq.com/s/pHcgkDvKfElRIVZGd4Kzng)
+    - [再见，三歪](https://mp.weixin.qq.com/s/7t2-L7ZYAYXrp0CTbYpAUg)
   - 自媒体经历
     - [写作一个月的感受](https://mp.weixin.qq.com/s/g6SQ6nqjKrqjlzaGuLHpYA)
     - [我知道互联网不相信眼泪，但是敖丙今天还是没忍住](https://mp.weixin.qq.com/s/UC6NsEFlNfqMdEkzvHxKRA)
@@ -597,6 +611,9 @@
 - 人物&杂谈  
 
   - [罗永浩](https://mp.weixin.qq.com/s/FUbxHFAQeUgV59Zhp7Fe0w)
+  - [俞敏洪](https://mp.weixin.qq.com/s/Udd3B4L-94hH9ggEtOcJAw)
+  - [远方是门票机酒，前方是山川大海](https://mp.weixin.qq.com/s/RasTw7_XpxZoDP5k2bpz0w)
+  - [门户前浪退市，从此只做“新浪”](https://mp.weixin.qq.com/s/lt_RxXC_OAl7aezCkmSyyg)
   - [“小破站”二次上市 - ( ゜- ゜)つロ 乾杯~](https://mp.weixin.qq.com/s/a4CzPbx5Bim6mFzzqq0vrA)
   - [我们在努力成为恒星](https://mp.weixin.qq.com/s/s2xcFud-8IJq7MpgO1QSHA)
   - [苏宁张近东：三十年沉沉浮浮，零售史上不为人知的秘密](https://mp.weixin.qq.com/s/bTWTgiQInITy9Dv5BJ-Dgg)
