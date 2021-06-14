@@ -105,7 +105,7 @@
   
   - 7种常见的设计模式和使用场景
   
-    - [设计模式系列 - 单例模式](https://mp.weixin.qq.com/s/dW0L-PoBeTFHhD29HJO0BQ)
+    - [单例模式](https://mp.weixin.qq.com/s/dW0L-PoBeTFHhD29HJO0BQ)
     - [工厂模式](https://mp.weixin.qq.com/s/j42vn-A_rdWZP3aixXB8Ag)
     - [流程引擎](https://mp.weixin.qq.com/s/b8xa3o4fKDme2438oJTakw)
     - [建造者模式](https://mp.weixin.qq.com/s/h7iEyxgN34FPn191S8qUpA)
