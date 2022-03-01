@@ -51,39 +51,53 @@
     - [Java基础面试16问](https://mp.weixin.qq.com/s/-xFSHf7Gz3FUcafTJUIGWQ)
     
     - [零拷贝](https://mp.weixin.qq.com/s/FgBCop2zFfcX5ZszE0NoCQ)
+    - [面试官：详细说说你对序列化的理解](https://mp.weixin.qq.com/s/nzFBPuUGSSIGZaBbE-FkTg)
+    - [同事：你能跟我聊聊class文件么？](https://mp.weixin.qq.com/s/QgC65Ld5UCXo11xXgQ_6UA)
+    - [JAVA代码编译流程是怎样的？](https://mp.weixin.qq.com/s/q4q-jr-6NDXxkXuC2ZegJQ)    
     
-    - [一次相亲经历，我彻底搞懂了什么叫阻塞非阻塞，同步异步](https://mp.weixin.qq.com/s/DEd0VY3dhR6B0hjQSEtB7Q)
-    
-  - 计算机操作系统与Linux
+  - 计算机操作系统
   
-    - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
-    
     - [图解 | 计算机文件系统](https://mp.weixin.qq.com/s/j2msue1Hjcwd9z1U2p0TDQ)
+    
     - [浏览器的秘密藏在这31张图里](https://mp.weixin.qq.com/s/11MRrxmiyZybTUbjRDRubQ)
-    - [大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
-    - [Linux 内核 vs Windows 内核](https://mp.weixin.qq.com/s/7iQ5jO_qfYbwKdM21qywYg)
-    - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
-    - [Linux IO 模型](https://mp.weixin.qq.com/s/TbIPlBtkK_zCyt54cCX8dw)
     - [带宽、延时、吞吐率、PPS 这些都是啥？](https://mp.weixin.qq.com/s/eWHQ8co0jF_a26Xz8ZQLjg)
     - [进程和线程基础知识全家桶，30 张图一套带走](https://mp.weixin.qq.com/s/FaHKGRI69TqDj0AJtNiVoA)
     - [20 张图揭开内存管理的迷雾](https://mp.weixin.qq.com/s/oexktPKDULqcZQeplrFunQ)
     - [看完这篇操作系统，和面试官扯皮就没问题了。](https://mp.weixin.qq.com/s/59xyIj1nIFp2TtkKFYnR-g)
+    - [计算机内存管理基础知识](https://mp.weixin.qq.com/s/OGRMAJeDw8wuO7UW5PjoVQ)
+    - [用动图的方式，理解 CPU 缓存一致性协议！](https://mp.weixin.qq.com/s/cyI2VAP4dqkStbsNMDWhDQ)
     - [进程间通信](https://mp.weixin.qq.com/s/mblyh6XrLj1bCwL0Evs-Vg)
     - [进程之间究竟有哪些通信方式？](https://mp.weixin.qq.com/s/CGqy0j5WvarN6mTmYB8vSA)
     - [键盘敲入 A 字母时，操作系统期间发生了什么...](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
     - [一口气搞懂「文件系统」，就靠这 25 张图了](https://mp.weixin.qq.com/s/UT2JrfpkA5OUC9fJJ_MirQ)
-    - [「网络IO套路」当时就靠它追到女友](https://mp.weixin.qq.com/s/x-AZQO5uiuu5svIvScotzA)
     - [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/hjywA21UrvZSzdgvAr6fQA)
-    - [敖丙说了这么多次 I/O，可你知道其中的原理么？](https://mp.weixin.qq.com/s/TJghsMRqkzBIsoHjGiEwFw)
-    - [迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://mp.weixin.qq.com/s/EVequWGVMWV5Ki2llFzdHg)
-    - [原来 8 张图，就能学废 Reactor 和 Proactor](https://mp.weixin.qq.com/s/px6-YnPEUCEqYIp_YHhDzg)
     - [2.5w字 + 36 张图+一周时间：爆肝操作系统面试题](https://mp.weixin.qq.com/s/ws6bgcv6dKIIJDwYYliMAg)
     - [计算机时间到底是怎么来的？](https://mp.weixin.qq.com/s/uM1ZNT8UwfvhqoscK8FJiQ)
+    
+  - IO
+    - [迄今为止把同步/异步/阻塞/非阻塞/BIO/NIO/AIO讲的这么清楚的好文章（快快珍藏）](https://mp.weixin.qq.com/s/EVequWGVMWV5Ki2llFzdHg)
+    
+    - [原来 8 张图，就能学废 Reactor 和 Proactor](https://mp.weixin.qq.com/s/px6-YnPEUCEqYIp_YHhDzg)
+    - [敖丙说了这么多次 I/O，可你知道其中的原理么？](https://mp.weixin.qq.com/s/TJghsMRqkzBIsoHjGiEwFw)
+    - [「网络IO套路」当时就靠它追到女友](https://mp.weixin.qq.com/s/x-AZQO5uiuu5svIvScotzA)
     - [IO 多路复用](https://mp.weixin.qq.com/s/CMWlDywI1zbgJSoeGTBmuw)
+    - [一次相亲经历，我彻底搞懂了什么叫阻塞非阻塞，同步异步](https://mp.weixin.qq.com/s/DEd0VY3dhR6B0hjQSEtB7Q)
+    - [让我们，从头到尾，通透I/O模型](https://mp.weixin.qq.com/s/Gb6tZl_7B3IwLYdR6Au6-w)
+    - [为什么网络 I/O 会被阻塞？](https://mp.weixin.qq.com/s/RTJRzM1R7t344w5whESYmg)
+
+  - Linux  
+    - [52图初探Linux通用知识](https://mp.weixin.qq.com/s/dP8AJbvGgvYIXDy3zeXCRg)
+    
+    - [大厂面试Linux就这5个问题](https://mp.weixin.qq.com/s/24vBHgtw5efC9V9yYqknNg)
+    - [Linux 内核 vs Windows 内核](https://mp.weixin.qq.com/s/7iQ5jO_qfYbwKdM21qywYg)
+    - [学习linux命令，看这篇2w多字的命令详解就够了](https://mp.weixin.qq.com/s/7bSwKiPmtJbs7FtRWZZqpA)
+    - [Linux IO 模型](https://mp.weixin.qq.com/s/TbIPlBtkK_zCyt54cCX8dw)
+    - [Linux命令](https://mp.weixin.qq.com/s/T6try9YIKh8gTLG2lyKKOQ)
+    - [3万字Linux总结](https://mp.weixin.qq.com/s/kG1g7ghTkOMzyEoZ6tQMHQ)
 
   - 计算机网络  
     - [计算机网络](https://mp.weixin.qq.com/s/WfcozFAdXbOJ0EIcZEfLVg)
-    
+    - [拔掉网线后， 原本的 TCP 连接还存在吗？](https://mp.weixin.qq.com/s/0YFsUWL6e9r_aDrCZeTK3w)
     - [熬夜整理的20道计算机网络面试题](https://mp.weixin.qq.com/s/3FTuMZaUrT9Vw-ZScJkQbg)
     - [什么是单点登录(SSO)](https://mp.weixin.qq.com/s/drPVkRbCsDIlX6Ls2pDmqA)
     - [键入网址后，期间发生了什么？](https://mp.weixin.qq.com/s/I6BLwbIpfGEJnxjDcPXc1A)
@@ -113,12 +127,12 @@
   - 7种常见的设计模式和使用场景
   
     - [单例模式](https://mp.weixin.qq.com/s/dW0L-PoBeTFHhD29HJO0BQ)
+    
     - [工厂模式](https://mp.weixin.qq.com/s/j42vn-A_rdWZP3aixXB8Ag)
     - [流程引擎](https://mp.weixin.qq.com/s/b8xa3o4fKDme2438oJTakw)
     - [建造者模式](https://mp.weixin.qq.com/s/h7iEyxgN34FPn191S8qUpA)
     - [原型模式](https://mp.weixin.qq.com/s/fORmbucHuPVMS2z3q-mV3A)
     - [责任链模式](https://mp.weixin.qq.com/s/l9EdvpAMukIDOgaN7x3b4w)
-    
     - [观察者模式](https://mp.weixin.qq.com/s/_hVGgJxefoVXFHFNXC-U6A)
     - [策略模式](https://mp.weixin.qq.com/s/AFbt7VJMASenD2S8KbPKJQ)
     - [策略模式2.0](https://mp.weixin.qq.com/s/HOnQf-S-w6A19tGnoIXBrg)
@@ -131,18 +145,22 @@
   
   - Java必会基础与新版本特性
     - [枚举](https://mp.weixin.qq.com/s/U5FkL9zyzr0PkAp8MJJ8BQ)
-    
     - [从String中移除空白字符的多种方式！？差别竟然这么大！](https://mp.weixin.qq.com/s/Du2huBEkI7IR3noPeK_67g)
     - [双亲委派原则](https://mp.weixin.qq.com/s/6nJ-6cDLW6TfysWV5ZB3Iw)
     - [Java 16 新特征，真香！](https://mp.weixin.qq.com/s/-NQoKpBTXwGUxd2hUbCU2Q)
   - 线上问题排查
     - [线上问题如何排查？](https://mp.weixin.qq.com/s/8YBJn8x7Sf9dai9jNkX6Tg)
-    - [RT 过长，排查思路](https://mp.weixin.qq.com/s/TnLl2OW9XJLSZihcpgP7VQ)  
+    - [RT 过长，排查思路](https://mp.weixin.qq.com/s/TnLl2OW9XJLSZihcpgP7VQ)
+    - [线上问题排查](https://mp.weixin.qq.com/s/fA860wCu9PZW3eQTwdbGWQ)
+    
+      
+
   
 - 集合框架
   - [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/bVOSat47L0Hskfx9akAN6Q)
   
   - [Java 集合中「堆」是啥？](https://mp.weixin.qq.com/s/eSCVJclB-IaJYkPKsWSkRA)
+  - [别这样创建集合了，非常容易内存泄露](https://mp.weixin.qq.com/s/pFnme5EPWNtfKspI4Y1W-w)
   
   - HashMap
     - [HashMap](https://mp.weixin.qq.com/s/0Gf2DzuzgEx0i3mHVvhKNQ)
@@ -168,6 +186,8 @@
     - [【JVM故事】了解JVM的结构，好在面试时吹牛](https://mp.weixin.qq.com/s/fit90VdZUa2pG9lbET0i7w)
     
     - [Java堆内存是线程共享的！面试官：你确定吗？](https://mp.weixin.qq.com/s/Wws24Fhg1nH4dHvtcFYi2g)
+    - [JVM](https://mp.weixin.qq.com/s/0XqhneKz7F5A-PE9CdzyoA)
+    - [面试系列重启：JVM篇](https://mp.weixin.qq.com/s/FEPtidbx7WKz6LbhoerRcA)
   - 性能调优、线上问题排查
     - [线上服务的FGC问题排查，看这篇就够了！](https://mp.weixin.qq.com/s/P8s3kuceBNovUP5adXpFCQ)
     
@@ -197,7 +217,7 @@
     - [图解Java中那18 把锁](https://mp.weixin.qq.com/s/XCR93HSm_E0c3KDcmZk3cA)
   - 常见关键字  
     - [死磕Synchronized源码](https://mp.weixin.qq.com/s/2ka1cDTRyjsAGk_-ii4ngw)
-    
+    - [当Synchronized遇到这玩意儿，有个大坑，要注意！](https://mp.weixin.qq.com/s/0oUXYFxpsi6Q9MfR5NKtLQ)
     - [面试官想到，一个Volatile，敖丙都能吹半小时](https://mp.weixin.qq.com/s/Oa3tcfAFO9IgsbE22C5TEg)
   - 多线程锁机制
     - [乐观锁、悲观锁](https://mp.weixin.qq.com/s/WtAdXvaRuBZ-SXayIKu1mA)
@@ -263,6 +283,8 @@
     - [我是如何在面试别人Spring事务时“套路”对方的](https://mp.weixin.qq.com/s/JcHt99SAbNIlY063rmylpA)
     - [SpringIOC 面试题（下）](https://mp.weixin.qq.com/s/4z9V4-k2Whqiz69gXy5iMQ)
     - [SpringIOC 面试题（上）](https://mp.weixin.qq.com/s/SH4laewpIsio66MUJFLTyg)
+    - [深入浅出Spring架构设计](https://mp.weixin.qq.com/s/wXkgudY0ThIRLFxUmohJog)
+    - [Spring](https://mp.weixin.qq.com/s/liWn2Dn91cmuiqHSxVO_fA)
   - SpringCloud 
      - [外行人都能看懂的SpringCloud，错过了血亏！](https://mp.weixin.qq.com/s/MJrahcDXwxgDr5zBdO3XWw)
      
@@ -299,7 +321,9 @@
  
   - Redis数据结构、基础知识
     - [Redis基础知识](https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ)
+    - [图解 Redis 数据结构](https://mp.weixin.qq.com/s/qptE172slg_6Tl1yuzdbfw)
     
+    - [Redis为什么这么快？](https://mp.weixin.qq.com/s/KtzvawDnQQwhfjnCoXpcMQ)
     - [集群高可用、哨兵、持久化、LRU](https://mp.weixin.qq.com/s/EjDeypra_d9Tfsn-WkJZdw)
     - [布隆过滤器(BloomFilter)](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
     - [Redis—分布式锁深入探究](https://mp.weixin.qq.com/s/49hgH3COla3wU0rgyiUVgg)
@@ -311,6 +335,9 @@
     - [Redis数据结构底层系列-SDS](https://mp.weixin.qq.com/s/VY31lBOSggOHvVf54GzvYw)
     - [短小精悍之 Redis 命令行工具有趣的罕见用法](https://mp.weixin.qq.com/s/eSx4aL7iaMZlW0cPZswghA)
     - [Redis分布式锁(全)](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
+    - [Redis源码之BitMap](https://mp.weixin.qq.com/s/LavkCpqMTled_1m9CpJQ6w)
+    - [Redis源码之SDS](https://mp.weixin.qq.com/s/uYUQ1P8Dq1Cdknxif7lF-g)
+    - [读懂Redis源码，我总结了这7点心得](https://mp.weixin.qq.com/s/h-OEbiUUmKvUZqxmjfmgtg)
   - Redis常见线上故障及其解决方案
     - [缓存击穿、雪崩、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
     - [布隆过滤器实战【防止缓存击穿】](https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg)
@@ -331,24 +358,26 @@
       
       - [缓存和数据库一致性问题](https://mp.weixin.qq.com/s/D4Ik6lTA_ySBOyD3waNj1w)
       - [一个架构师的缓存修炼之路](https://mp.weixin.qq.com/s/Ls-Bld0Q6OQ1VD_az3iqbg)  
-        
       - [再见了Antirez我永远的神](https://mp.weixin.qq.com/s/u3Ws1FGhJVIJdpM8IHI7OQ)
       - [敖丙在蘑菇街的redis技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
       - [课代表总结](https://mp.weixin.qq.com/s/lLTbL5YW0gIJu9Yx2T2OtA)
       - [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
       - [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
       - [什么鬼，面试官竟然让敖丙用Redis实现一个消息队列！！？](https://mp.weixin.qq.com/s/5NOTLJ6AM3QJfhvXMSR-MA)
-
+      - [我最爱用的一款 Redis 可视化管理工具！好用到爆！！！](https://mp.weixin.qq.com/s/LDkcDO75gsivs04XXNLzTA)
   
 - 消息队列
   - 消息队列基础知识
       - [消息队列基础知识](https://mp.weixin.qq.com/s/Qhw4oS0OeN1N7uT1z6rbqg)
-      
+      - [用通俗的语言介绍 RPC 框架的架构原理](https://mp.weixin.qq.com/s/jKr_ZDPww8A9huLAMBPEIQ)
       - [消息重复消费、分布式事务、顺序消费](https://mp.weixin.qq.com/s/OKon95MRUqDc9IwtEqPSjQ)
   - Kafka
       - [Kafka架构与原理](https://mp.weixin.qq.com/s/-IPfWPS1WQMEgcIu0Ak2VQ)
-      
+      - [Kafka 架构设计](https://mp.weixin.qq.com/s/8wfZEsNDpeLr-_uu2CawFw)
       - [Kafka性能篇：为何Kafka这么"快"？](https://mp.weixin.qq.com/s/kMIhPW2uLdy-mgS9sF6agw)
+      - [Kafka 精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/kImrkVLE4dtpVnb-Yp479Q)
+      - [Kafka 精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/YJFltTP4J5si1Z5SbuMUJw)
+      - [kafka夺命连环11问](https://mp.weixin.qq.com/s/sFUvgaQUXSA8b4hshhbwOQ)
   - RocketMQ    
     - [RocketMQ](https://mp.weixin.qq.com/s/y-4TVwbc7AFGEA7q-_OkYw)
   - 消息队列面试题  
@@ -371,6 +400,9 @@
     - [数据库基础知识](https://mp.weixin.qq.com/s/NDL1Q6nqdPq5oMBWSpq4ug)
     - [MySQL面试夺命20问](https://mp.weixin.qq.com/s/vwHkXGNCdRdx8k7BeBMy9w)
     - [mysql 的一行记录是怎么存储的？](https://mp.weixin.qq.com/s/3d66-yXVZoDFRG1wyRw7kA)
+    - [MySQL的性能到底有多强？](https://mp.weixin.qq.com/s/Chsfldp_BUNOFFCoCPN-ZQ)
+    - [MySql 35卷](https://mp.weixin.qq.com/s/MaVYENapeJcLNpYcR7tqBQ)
+    - [为什么 MySQL 喜欢 B+ 树？](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
   - 索引、锁机制
     - [数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
     
@@ -379,6 +411,7 @@
     - [MySQL的索引是怎么加速查询的？](https://mp.weixin.qq.com/s/7TPVOT7sloDUKmhldf9uvg)
     - [索引下推](https://mp.weixin.qq.com/s/87qsrj-_hG54uxcOlFr35Q)
     - [MySQL 的全局锁、表锁和行锁](https://mp.weixin.qq.com/s/1LGJjbx_n_cvZndjM3R8mQ)
+    - [聊聊索引失效？](https://mp.weixin.qq.com/s/WnO_4SoEL6jugkxPHW4KCg)
   - 事务特性、隔离级别、数据安全
     - [MySQL安全方案](https://mp.weixin.qq.com/s/rQDitOOnLpLEoj8M11NHwg)
     
@@ -388,6 +421,7 @@
     - [MVCC和事务隔离级别的关系](https://mp.weixin.qq.com/s/0-YEqTMd0OaIhW99WqavgQ)
     - [MySQL事务与MVCC如何实现的隔离级别](https://mp.weixin.qq.com/s/CZHuGT4sKs_QHD_bv3BfAQ)
     - [数据库事务](https://mp.weixin.qq.com/s/iFmvvt4DJ-_qFeb0XUh6QA)
+    - [MySQL 默认隔离级别是RR，为什么阿里等大厂会改成RC？](https://mp.weixin.qq.com/s/mIz0T0v68_dvUgCrj-qdug)
   - 数据库性能调优
     - [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/7dpNkLaglIyb_9DKdH43eQ)
     
@@ -409,6 +443,8 @@
     - [原来MySQL面试还会问这些(undo log)](https://mp.weixin.qq.com/s/Lx4TNPLQzYaknR7D3gmOmQ)
     - [explain](https://mp.weixin.qq.com/s/izOKK9Ft5wLts8hWIo4ODQ)
     - [你说说一条更新SQL的执行过程？](https://mp.weixin.qq.com/s/-5N6eg1yMBUvDMbJOXp0eg)
+    - [一条SQL语句执行得很慢的原因有哪些？](https://mp.weixin.qq.com/s/YKmFEtHcZPBn1S9so0kxYw)
+    - [数据库的锁，到底锁的是什么？](https://mp.weixin.qq.com/s/mvG0wVr2kpbM8iqfZnimiQ)
 - 大数据
 
   - ODPS离线分析
@@ -420,6 +456,9 @@
   - HDFS
   - [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
   - [Flink入门教程](https://mp.weixin.qq.com/s/xa2iGrmyoXq3FtZeU9GU-w)
+  - [Flink的CheckPoint机制](https://mp.weixin.qq.com/s/-OY0VGDWUoOMgKg-xKjZRQ)
+  - [Flink背压](https://mp.weixin.qq.com/s/Ttm9lCYxu7Wx0oE-LsjRlw)
+  - [Flink入门](https://mp.weixin.qq.com/s/Ey-oWpGO_QDo4DixiccVGg)
   
 - 搜索引擎
 
@@ -451,7 +490,9 @@
     - [分布式架构由来](https://mp.weixin.qq.com/s/uv9xYgYrHWqM5acXQYFegA)
     - [分布式事务](https://mp.weixin.qq.com/s/XknegP66mnYboiBx556Kzw)
     - [1.4 w字，25 张图让你彻底掌握分布式事务原理](https://mp.weixin.qq.com/s/ujRRtdLOeKEHsHrtDRNXGA)
+    - [什么是分布式配置中心？](https://mp.weixin.qq.com/s/NY7_z7SpiHy7IMJglPUoMw)
     
+    - [几种大厂分布式ID设计方案](https://mp.weixin.qq.com/s/pT2m_xqzcJkpV3Ql0o6dMw) 
 - 互联网前沿技术
 
   - 容器化：Docker与k8s详解
@@ -463,8 +504,11 @@
       - [能不能好好写简历？](https://mp.weixin.qq.com/s/LxVeT49GMKu72PZJ-rDHpA)
       - [简历这样写，技术人都不直男了！](https://mp.weixin.qq.com/s/tl4DpsQPVh-bvlFzNsrzvw)
       - [10个简历小技巧，成为面试战神](https://mp.weixin.qq.com/s/NyJ2gLDLIomlgkIFYWVvJg)
+      
+      - [简历制作](https://mp.weixin.qq.com/s/1TPh2mEnSgZ2ZfccVUWicg)
   - 语言组织
     - [自我介绍](https://mp.weixin.qq.com/s/br7Ak88kA5GkZ26hxwKUiw)
+    - [面试官希望你做怎样的自我介绍？](https://mp.weixin.qq.com/s/Pyi-lbocEr_vFeGxUkSl8A)
   
   - 加分项
     - [面试官喜欢怎样的人](https://mp.weixin.qq.com/s/2mdcZnlTWCDYejGkZCdNOQ)
@@ -482,6 +526,7 @@
       - [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](https://mp.weixin.qq.com/s/9y89Hy-YnpPjXpcmXpy_GQ)
       - [为什么阿里巴巴不建议在for循环中使用"+"进行字符串拼接](https://mp.weixin.qq.com/s/fLUf8V0Qahe8piNrRp1UVQ)
       - [为什么阿里巴巴禁止使用BigDecimal的equals方法做等值比较？](https://mp.weixin.qq.com/s/JduY7OAeywOlVLbLiX3Xnw)
+      - [为什么阿里巴巴强制要求使用包装类型定义属性？](https://mp.weixin.qq.com/s/O_jCxZWtTTkFZ9FlaZgOCg)
       
   - 开源漏洞    
     - [fastjson到底做错了什么？为什么会被频繁爆出漏洞？](https://mp.weixin.qq.com/s/iV9DbX3LhbBkNiaKLL7PxA)
@@ -490,8 +535,15 @@
       - [大厂是如何设计接口的？](https://mp.weixin.qq.com/s/ROMzeipOwWZWNrVGdVwisg)
       
       - [不要再在对外接口中使用枚举类型了！](https://mp.weixin.qq.com/s/ynYi_dMlP2Y9GnQXzQxa3Q)
-  
+      - [谁在用isXxx形式定义布尔类型年后不用来了](https://mp.weixin.qq.com/s/bhCMqJnms3Q84kVvh_cd4g)
 
+- 各地互联网公司盘点
+  - [北京有哪些牛逼的互联网公司](https://mp.weixin.qq.com/s/OcVumzBwGjX9GIkS-lGMoA) 
+  
+  - [武汉有哪些不错的互联网公司？](https://mp.weixin.qq.com/s/fhMkMMqTrAe-8Af6Jk4XAg)
+  - [杭州有哪些牛批的互联网公司](https://mp.weixin.qq.com/s/35YoYTQkehqSi_tOj1XZAg)
+  - [上海有哪些不错的互联网公司？](https://mp.weixin.qq.com/s/oBUoRuMvbhQJI5n2keIa1Q)
+  - [成都有哪些牛批的互联网公司](https://mp.weixin.qq.com/s/POFAsVr5bNz6zu-IVYVA8g)
   
 - 面试真题&面经分享
   
@@ -501,13 +553,17 @@
     - [互联网寒冬，敖丙挚友7面阿里，终获Offer](https://mp.weixin.qq.com/s/gYpZCSYK3YYEvGFFeHdFJQ)  
 
     - [一道蚂蚁金服笔试题，还行，中等难度](https://mp.weixin.qq.com/s/16cZLY9_uJwhi50RJXknIg)
-    
+    - [上岸腾讯 PCG 和阿里云！](https://mp.weixin.qq.com/s/zpdLHtqJN5H3iO0VMSzMJw)
     - [一份还热乎的蚂蚁金服面经（已拿Offer）！附答案！！](https://mp.weixin.qq.com/s/HtLwChoLzqhbM4pKldLDng)
     - [我和阿里面试官的一次“邂逅”(附问题详解)](https://mp.weixin.qq.com/s/-DZj158-LOQmnCayf1_n3A)
     - [二本 两年经验读者 阿里P6面经](https://mp.weixin.qq.com/s/WOS6HMdt1-mAGuLiC30_-Q)
     - [小姐姐面试蚂蚁金服被虐经历，心疼...](https://mp.weixin.qq.com/s/nzvg3e-RgM59zs9WSeUpLg)
     - [一位读者小姐姐的阿里面经分享，快被问哭了！（附部分问题详解）](https://mp.weixin.qq.com/s/jnegDdp4OMSKynZl8OBIpw) 
     - [朋友怎样刚拿饿了么P7 offer，然后途虎一轮游的](https://mp.weixin.qq.com/s/e6MpOuxeZ53fAatNBhiC9A)
+    - [朋友离职了，一周面了 20 多场，新鲜面经奉上](https://mp.weixin.qq.com/s/muXoICVmoXxm3XNiNHB5lg)
+    - [阿里云二面：zookeeper一致性算法](https://mp.weixin.qq.com/s/J2is0iapoxn5ZuQySX9SKw)
+    
+    
   - 字节跳动面试题
     - [读者字节、滴滴面经（已拿offer）](https://mp.weixin.qq.com/s/sWtI7M8K1iajreEo3LtwIw)
     - [敖丙读者只复习了半年，怒拿字节跳动Offer](https://mp.weixin.qq.com/s/g6qFbEWfJeahzuzjECuvDg)
@@ -518,6 +574,7 @@
     - [百度、字节跳动等后台面经，已拿Offer！](https://mp.weixin.qq.com/s/BiaXzNw5rp69CPPNBRii3g)
     - [学妹字节、蘑菇街、阿里、莉莉丝...面经](https://mp.weixin.qq.com/s/WOIkWLsA7fyyoHPyNT7HdQ)
     - [双非本科逆袭 拿下ACM金牌、字节和旷视offer、保研985！](https://mp.weixin.qq.com/s/P2lTpC7yQ7VD8if_rMUcPg)
+    - [字节一面：“为什么网络要分层？每一层的职责、包含哪些协议？”](https://mp.weixin.qq.com/s/QNqbUI1jxOhlGQvGyssK2w)
   - 拼多多面试题
     - [读者一个月拿到阿里字节拼多多offer](https://mp.weixin.qq.com/s/kSiLvSrAMwrHLwxvesyjBw)
   - bilibili
@@ -535,6 +592,7 @@
     
     - [来自朋友最近阿里、腾讯、美团等P7岗位面试题](https://mp.weixin.qq.com/s/yb6MtKMrCl2rAUZVLIfJow)
     - [研二师弟拿下微信 offer](https://mp.weixin.qq.com/s/0XJHz2seZAw4bDEA2i_i2Q)
+    - [腾讯二面：大白你了解共享内存吗？](https://mp.weixin.qq.com/s/BvV5HnwEOATPDFQoI4TYZA)
   - 国企面试题
     - [怎么面国企或银行？](https://mp.weixin.qq.com/s/d4OewL8-gCm_IkqDqufvsQ)
   
@@ -564,9 +622,11 @@
     - [我对外包的看法](https://mp.weixin.qq.com/s/lC6F1HVmAGQzXsFbpZz9Qw)
     - [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
     - [读研or工作？](https://mp.weixin.qq.com/s/Sn7_FcNW7Sq3WVm_LgwVrA)
-    
+    - [敖丙的前前前同事因为几行代码坐牢了](https://mp.weixin.qq.com/s/UJVD7o-8-Oy0bWeceo7bcA)
     - [应届毕业生工作7个月小结](https://mp.weixin.qq.com/s/XcrBvdlh1At_V42qfQZ9Kw)
-    
+    - [蘑菇街被裁员工自述：若是有缘，江湖再见](https://mp.weixin.qq.com/s/WsMS30S1qDZCs-r5KaYmGA)
+    - [蘑菇街又裁员了](https://mp.weixin.qq.com/s/-axhH958qOS8daWULP11zA)
+    - [麻了，我的爱豆也塌房了](https://mp.weixin.qq.com/s/otVb5k76z5ejTAQZSXNpzg)
     - [在国企里面当程序猿是一种怎样的体验?](https://mp.weixin.qq.com/s/HJ9wzgW6TAc6Cf6B8oZEdw)
     - [跳槽季，应不应该跳，怎么跳？](https://mp.weixin.qq.com/s/enq_fh0hq2gMSgeXfunP6Q)
     - [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
@@ -629,6 +689,8 @@
     - [请照顾好自己，周末病魔差点一套带走我。](https://mp.weixin.qq.com/s/5C4UjGtHoZVu8uI4yP5wRg)
     - [曾经我们并肩作战，敬未来一杯，敬资本一杯](https://mp.weixin.qq.com/s/s9HPYYi9VfYMt7UGCTqWVw)
     - [敖丙我写了一个新手都写不出的低级bug，被骂惨了。](https://mp.weixin.qq.com/s/yB9s771gDz6oMKZsUnJuyg)
+    - [程序员删库跑路，判刑十个月](https://mp.weixin.qq.com/s/xmhMU17fSCd9aYBkozNVUg)
+    - [我是没想到老家的出租车师傅连我都敢宰，我给他上了一课](https://mp.weixin.qq.com/s/Djlxil-pt6Kn5SDqt1A_5A)
   - 读者经历
     - [从网瘾少年逆袭拿到微软 、字节等offer（上）](https://mp.weixin.qq.com/s/irjvJkIRknxasM0D1v3FOw)
     - [从网瘾少年逆袭拿到微软 、字节等offer（下）](https://mp.weixin.qq.com/s/CTpY8oxxjdvleTotjrpAsA)
