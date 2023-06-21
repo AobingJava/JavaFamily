@@ -43,14 +43,11 @@
   - [计算机网络](https://github.com/AobingJava/JavaFamily/tree/master/docs/all/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)  
 
     - [HTTP/HTTPS](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP/HTTPS.md)
-
     - [TCP/IP](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/TCP/IP.md)
   
   - [7种常见的设计模式和使用场景](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%92%8C%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
   - [Java必会基础与新版本特性](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/Java%E5%BF%85%E4%BC%9A%E5%9F%BA%E7%A1%80%E4%B8%8E%E6%96%B0%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7.md)
   - [线上问题排查](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%BA%BF%E4%B8%8A%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5.md)
-
-      
 
   
 - 集合框架
@@ -69,8 +66,7 @@
   - [类加载机制详解](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/jvm/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
   - [垃圾回收机制](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/jvm/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
   - [垃圾回收器、垃圾回收算法](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/jvm/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E3%80%81%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95.md)
-  
-  
+
 - 并发与多线程
 
   - [多线程基础知识](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
@@ -80,7 +76,6 @@
   - [常见的JUC工具类](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E5%B8%B8%E8%A7%81%E7%9A%84JUC%E5%B7%A5%E5%85%B7%E7%B1%BB.md)
   - [多线程经典面试题](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E5%B9%B6%E5%8F%91%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BB%8F%E5%85%B8%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-    
 - 常用工具集
 
   - JVM问题排查工具-JMC
@@ -89,11 +84,9 @@
   - Git原理与工作流
   - Linux常用分析工具
 
-  
 - 数据结构与算法
 
   - 从二叉搜索树到B+树
-  
   - 经典问题之字符串
   - 经典问题之TOPK
   - [最大公共子串](https://mp.weixin.qq.com/s/Yx3uRVGFYikx8gm-oi-0vg)
@@ -146,7 +139,6 @@
 - 大数据
   -  [大数据体系](https://mp.weixin.qq.com/s/7rW9eHxdRXtWJExVupcZZQ)
   - ODPS离线分析
-  
   - Hive
   - Spark
   - Hadoop
@@ -185,14 +177,11 @@
   - [加分项](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E5%8A%A0%E5%88%86%E9%A1%B9.md)
   - [面试流程](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E6%8A%80%E5%B7%A7/%E9%9D%A2%E8%AF%95%E6%B5%81%E7%A8%8B.md)
 
-  
 - 研发规范
   
   - [阿里巴巴技术规范](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83.md) 
   - [开源漏洞](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83/%E5%BC%80%E6%BA%90%E6%BC%8F%E6%B4%9E.md)
-  - [大厂技术研发规范](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83/%E5%A4%A7%E5%8E%82%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83.md)  
-  
-
+  - [大厂技术研发规范](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83/%E5%A4%A7%E5%8E%82%E6%8A%80%E6%9C%AF%E7%A0%94%E5%8F%91%E8%A7%84%E8%8C%83.md)
 
 - [各地互联网公司盘点](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E5%90%84%E5%9C%B0%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E7%9B%98%E7%82%B9.md)
 
@@ -200,32 +189,19 @@
 - 面试真题&面经分享
   
   - [阿里巴巴](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-
   - [字节跳动](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-
   - [拼多多](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-    
   - [哔哩哔哩](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/bilibili.md)
-  
   - [小红书](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E5%B0%8F%E7%BA%A2%E4%B9%A6.md)
-
   - [京东](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E4%BA%AC%E4%B8%9C.md)
-  
   - [百度](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E7%99%BE%E5%BA%A6.md)
-    
   - [美团](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E7%BE%8E%E5%9B%A2.md)
-
   - [网易](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E7%BD%91%E6%98%93.md)
-    
   - [腾讯](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E8%85%BE%E8%AE%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-
   - [国企](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E5%9B%BD%E4%BC%81.md)
   - [外企](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E5%A4%96%E4%BC%81.md)
-   
   - [校招](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-
   - 社招
-  
   - [其他](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E9%9D%A2%E8%AF%95%E7%9C%9F%E9%A2%98%26%E9%9D%A2%E7%BB%8F%E5%88%86%E4%BA%AB/%E5%85%B6%E4%BB%96.md)
 
 - 职场杂谈
@@ -234,22 +210,14 @@
 - 程序人生系列
   
   - [成长经历](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E6%88%90%E9%95%BF%E7%BB%8F%E5%8E%86.md)
-
   - [职场经历](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E8%81%8C%E5%9C%BA%E7%BB%8F%E5%8E%86.md)
-
   - [自媒体经历](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E8%87%AA%E5%AA%92%E4%BD%93%E7%BB%8F%E5%8E%86.md)
-
-  - [生活趣事](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%94%9F%E6%B4%BB%E8%B6%A3%E4%BA%8B.md)  
-
+  - [生活趣事](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E7%94%9F%E6%B4%BB%E8%B6%A3%E4%BA%8B.md)
   - [读者经历](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E8%AF%BB%E8%80%85%E7%BB%8F%E5%8E%86.md)
-  
   - [过年特辑](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/%E8%BF%87%E5%B9%B4%E7%89%B9%E8%BE%91.md)
 
   
-  
-  
 - [科普](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E7%A7%91%E6%99%AE.md)
-
 
   
 - [人物&杂谈](https://github.com/AobingJava/JavaFamily/blob/master/docs/all/%E4%BA%BA%E7%89%A9%26%E6%9D%82%E8%B0%88.md)  
@@ -262,7 +230,6 @@
     - [Java/后端学习路线 2.0优化版本](https://mp.weixin.qq.com/s/QrRVMp6z7HjZA4trsga_cg)
     - [整理的书单(附个人喜欢的文学书)](https://mp.weixin.qq.com/s/Wod2cGjGkGeB0iLVAqpksQ)
     - [敖丙大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://mp.weixin.qq.com/s/7NS452k5hVPW0dUQ-oTi-A)
-  
     - [整理好用的工具集](https://mp.weixin.qq.com/s/WYiXHVJ-p1sZAf4jb5gIXg)
     - [通用的学习方法](https://mp.weixin.qq.com/s/JX72OoiNrZ9R0DTuOOtcoA)
     - [IDEA破解(请勿传播)](https://github.com/AobingJava/JavaFamily/blob/master/docs/idea/idea.md)
