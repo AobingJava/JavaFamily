@@ -229,7 +229,7 @@
   - 容器化：Docker与k8s详解
 
 - 面试技巧
-  - [敖丙迟早被你们气死](https://mp.weixin.qq.com/s/KeIJDrHbMH_BRUKLnCqExw)
+ 
   - 简历 
 
   - 语言组织
