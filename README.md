@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="https://mp.weixin.qq.com/s/-7for6EdQ_L1Lf5XyAcMxA" target="_blank">
-        <img src="https://gw.alicdn.com/imgextra/i3/O1CN012nIFM21BsVLdjTXcE_!!6000000000001-2-tps-2268-354.png" width=""/>
-    </a>
-</p>
+
 
 我会从下图中的知识点去写这个系列，很多细节的点，可能想得不是很完善，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#微信)提意见(别忘记**Star**哟)。
 
